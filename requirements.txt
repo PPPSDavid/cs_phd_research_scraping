@@ -1,4 +1,4 @@
 # Runtime dependencies
 #
 # This project currently uses only the Python standard library.
-# A modern Python 3.12+ environment is sufficient.
+# A modern Python 3.11+ environment is sufficient.

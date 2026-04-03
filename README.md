@@ -118,7 +118,7 @@ This keeps the project lightweight while still checking the reusable logic.
 ## Dependencies
 
 Runtime:
-- Python 3.12+
+- Python 3.11+
 - no third-party Python packages required right now
 
 Files:
