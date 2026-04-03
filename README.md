@@ -16,7 +16,7 @@ The repo is built to be reusable:
 3. Enriches each faculty row with evidence from official public pages.
 4. Scores faculty against a user profile using a strict, configurable prompt.
 
-Current generated outputs live in [data](C:\Users\19665\SynologyDrive\Coding Projects\cs_phd_research_scraping\data).
+Current generated outputs live in [`data/`](data/).
 
 ## Why This Repo Might Be Useful To Others
 
@@ -45,7 +45,7 @@ python scripts/04_rank_faculty.py --input data/custom_faculty_enriched.csv --out
 
 ## Configuration
 
-Main settings live in [pipeline.toml](C:\Users\19665\SynologyDrive\Coding Projects\cs_phd_research_scraping\configs\pipeline.toml).
+Main settings live in [`configs/pipeline.toml`](configs/pipeline.toml).
 
 Useful knobs:
 - `ranking.rank_min` / `ranking.rank_max`
@@ -57,7 +57,7 @@ Useful knobs:
 - `scoring.strict_prompt`
 - `scoring.examples_path`
 
-Prompt usage examples live in [scoring_examples.json](C:\Users\19665\SynologyDrive\Coding Projects\cs_phd_research_scraping\configs\scoring_examples.json).
+Prompt usage examples live in [`configs/scoring_examples.json`](configs/scoring_examples.json).
 
 ## Ethics and Respectful Scraping
 
@@ -76,22 +76,22 @@ That still does not replace manual judgment. Before scaling up:
 
 ## Repository Layout
 
-- [configs/pipeline.toml](C:\Users\19665\SynologyDrive\Coding Projects\cs_phd_research_scraping\configs\pipeline.toml): main config
-- [configs/scoring_examples.json](C:\Users\19665\SynologyDrive\Coding Projects\cs_phd_research_scraping\configs\scoring_examples.json): prompt examples
-- [research_pipeline/config.py](C:\Users\19665\SynologyDrive\Coding Projects\cs_phd_research_scraping\research_pipeline\config.py): config loader
-- [research_pipeline/http.py](C:\Users\19665\SynologyDrive\Coding Projects\cs_phd_research_scraping\research_pipeline\http.py): robots-aware HTTP client
-- [research_pipeline/csv_utils.py](C:\Users\19665\SynologyDrive\Coding Projects\cs_phd_research_scraping\research_pipeline\csv_utils.py): reusable CSV helpers
-- [research_pipeline/cli.py](C:\Users\19665\SynologyDrive\Coding Projects\cs_phd_research_scraping\research_pipeline\cli.py): shared CLI helpers
-- [scripts/run_pipeline.py](C:\Users\19665\SynologyDrive\Coding Projects\cs_phd_research_scraping\scripts\run_pipeline.py): pipeline runner
-- [tests](C:\Users\19665\SynologyDrive\Coding Projects\cs_phd_research_scraping\tests): unit tests
-- [.github/workflows/tests.yml](C:\Users\19665\SynologyDrive\Coding Projects\cs_phd_research_scraping\.github\workflows\tests.yml): CI
+- [`configs/pipeline.toml`](configs/pipeline.toml): main config
+- [`configs/scoring_examples.json`](configs/scoring_examples.json): prompt examples
+- [`research_pipeline/config.py`](research_pipeline/config.py): config loader
+- [`research_pipeline/http.py`](research_pipeline/http.py): robots-aware HTTP client
+- [`research_pipeline/csv_utils.py`](research_pipeline/csv_utils.py): reusable CSV helpers
+- [`research_pipeline/cli.py`](research_pipeline/cli.py): shared CLI helpers
+- [`scripts/run_pipeline.py`](scripts/run_pipeline.py): pipeline runner
+- [`tests/`](tests/): unit tests
+- [`.github/workflows/tests.yml`](.github/workflows/tests.yml): CI
 
 ## Current Pipeline Stages
 
-- [01_get_csrankings.py](C:\Users\19665\SynologyDrive\Coding Projects\cs_phd_research_scraping\scripts\01_get_csrankings.py): verified school list
-- [02_collect_faculty.py](C:\Users\19665\SynologyDrive\Coding Projects\cs_phd_research_scraping\scripts\02_collect_faculty.py): candidate faculty collection
-- [03_enrich_faculty.py](C:\Users\19665\SynologyDrive\Coding Projects\cs_phd_research_scraping\scripts\03_enrich_faculty.py): evidence enrichment
-- [04_rank_faculty.py](C:\Users\19665\SynologyDrive\Coding Projects\cs_phd_research_scraping\scripts\04_rank_faculty.py): scoring + markdown report
+- [`scripts/01_get_csrankings.py`](scripts/01_get_csrankings.py): verified school list
+- [`scripts/02_collect_faculty.py`](scripts/02_collect_faculty.py): candidate faculty collection
+- [`scripts/03_enrich_faculty.py`](scripts/03_enrich_faculty.py): evidence enrichment
+- [`scripts/04_rank_faculty.py`](scripts/04_rank_faculty.py): scoring + markdown report
 
 ## CI
 
