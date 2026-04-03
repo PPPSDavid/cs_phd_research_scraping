@@ -3,6 +3,7 @@
 
 from __future__ import annotations
 
+import argparse
 import subprocess
 import sys
 from pathlib import Path
@@ -18,9 +19,13 @@ SCRIPTS = [
 
 
 def main() -> int:
+    parser = argparse.ArgumentParser(description="Run all pipeline stages in order.")
+    parser.add_argument("--python", default=sys.executable, help="Python executable to use.")
+    args = parser.parse_args()
+
     for script in SCRIPTS:
         print(f"Running {script}...")
-        subprocess.run([sys.executable, script], cwd=ROOT, check=True)
+        subprocess.run([args.python, script], cwd=ROOT, check=True)
     print("Pipeline complete.")
     return 0
 

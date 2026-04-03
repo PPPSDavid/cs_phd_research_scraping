@@ -3,6 +3,7 @@
 
 from __future__ import annotations
 
+import argparse
 import csv
 import html
 import io
@@ -18,7 +19,9 @@ from urllib.parse import urljoin
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
 from research_pipeline.config import get_config_value
+from research_pipeline.csv_utils import parse_csv_file, write_csv_file
 from research_pipeline.http import HttpResponse, get_http_client
+from research_pipeline.cli import add_input_output_args, build_parser
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -120,17 +123,10 @@ def normalize_whitespace(text: str) -> str:
 
 
 def parse_csv_rows(path: Path, required_columns: Iterable[str]) -> list[dict[str, str]]:
-    text = path.read_text(encoding="utf-8")
-    reader = csv.DictReader(io.StringIO(text))
-    if reader.fieldnames is None:
-        raise FacultyEnrichmentError(f"{path} did not contain a CSV header row.")
-    missing = [column for column in required_columns if column not in reader.fieldnames]
-    if missing:
-        raise FacultyEnrichmentError(f"{path} is missing required columns: {', '.join(missing)}")
-    rows = list(reader)
-    if not rows:
-        raise FacultyEnrichmentError(f"{path} contained no data rows.")
-    return rows
+    try:
+        return parse_csv_file(path, required_columns)
+    except RuntimeError as exc:
+        raise FacultyEnrichmentError(str(exc)) from exc
 
 
 def build_rows(rows: Iterable[dict[str, str]]) -> list[FacultyRow]:
@@ -337,7 +333,6 @@ def enrich_row(row: FacultyRow) -> dict[str, str]:
 
 
 def write_output(rows: Iterable[dict[str, str]], output_path: Path) -> None:
-    output_path.parent.mkdir(parents=True, exist_ok=True)
     fieldnames = [
         "school_name",
         "rank",
@@ -354,15 +349,16 @@ def write_output(rows: Iterable[dict[str, str]], output_path: Path) -> None:
         "advising_cues",
         "uncertainty_flags",
     ]
-    with output_path.open("w", newline="", encoding="utf-8") as handle:
-        writer = csv.DictWriter(handle, fieldnames=fieldnames)
-        writer.writeheader()
-        writer.writerows(rows)
+    write_csv_file(output_path, fieldnames, rows)
 
 
-def main() -> int:
+def main(argv: list[str] | None = None) -> int:
+    parser = build_parser("Enrich faculty rows with official-page evidence.")
+    add_input_output_args(parser, default_input=INPUT_PATH, default_output=OUTPUT_PATH)
+    args = parser.parse_args(argv)
+
     input_rows = parse_csv_rows(
-        INPUT_PATH,
+        args.input,
         required_columns=[
             "school_name",
             "rank",
@@ -377,8 +373,8 @@ def main() -> int:
     rows = build_rows(input_rows)
     with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
         enriched_rows = list(executor.map(enrich_row, rows))
-    write_output(enriched_rows, OUTPUT_PATH)
-    print(f"Wrote {len(enriched_rows)} rows to {OUTPUT_PATH}")
+    write_output(enriched_rows, args.output)
+    print(f"Wrote {len(enriched_rows)} rows to {args.output}")
     return 0
 
 

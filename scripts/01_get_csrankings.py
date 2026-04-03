@@ -9,6 +9,7 @@ computation rules to build `data/schools_verified.csv`.
 
 from __future__ import annotations
 
+import argparse
 import csv
 import datetime as dt
 import io
@@ -22,7 +23,9 @@ from typing import Iterable
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
 from research_pipeline.config import get_config_value
+from research_pipeline.csv_utils import parse_csv_text
 from research_pipeline.http import get_http_client
+from research_pipeline.cli import add_input_output_args, build_parser
 
 
 BASE_URL = "https://csrankings.org"
@@ -142,17 +145,10 @@ def validate_live_contract(html_text: str, js_text: str) -> None:
 
 
 def parse_csv_rows(text: str, required_columns: Iterable[str], source_url: str) -> list[dict[str, str]]:
-    reader = csv.DictReader(io.StringIO(text))
-    if reader.fieldnames is None:
-        raise CSRankingsFormatError(f"{source_url} did not contain a CSV header row.")
-    missing = [column for column in required_columns if column not in reader.fieldnames]
-    if missing:
-        joined = ", ".join(missing)
-        raise CSRankingsFormatError(f"{source_url} is missing required columns: {joined}")
-    rows = list(reader)
-    if not rows:
-        raise CSRankingsFormatError(f"{source_url} contained no data rows.")
-    return rows
+    try:
+        return parse_csv_text(text, required_columns, source_url)
+    except RuntimeError as exc:
+        raise CSRankingsFormatError(str(exc)) from exc
 
 
 def load_us_institutions(rows: Iterable[dict[str, str]]) -> dict[str, Institution]:
@@ -294,7 +290,11 @@ def write_output_csv(rows: Iterable[RankedSchool], output_path: Path) -> None:
             )
 
 
-def main() -> int:
+def main(argv: list[str] | None = None) -> int:
+    parser = build_parser("Fetch and verify ranked schools from CSRankings.")
+    add_input_output_args(parser, default_output=OUTPUT_PATH)
+    args = parser.parse_args(argv)
+
     html_text = fetch_text(HTML_URL)
     js_text = fetch_text(JS_URL)
     validate_live_contract(html_text, js_text)
@@ -323,8 +323,8 @@ def main() -> int:
         start_year=start_year,
         end_year=end_year,
     )
-    write_output_csv(ranked_schools, OUTPUT_PATH)
-    print(f"Wrote {len(ranked_schools)} rows to {OUTPUT_PATH}")
+    write_output_csv(ranked_schools, args.output)
+    print(f"Wrote {len(ranked_schools)} rows to {args.output}")
     return 0
 
 

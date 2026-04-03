@@ -3,6 +3,7 @@
 
 from __future__ import annotations
 
+import argparse
 import csv
 import io
 import json
@@ -15,6 +16,8 @@ from typing import Iterable
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
 from research_pipeline.config import get_config_value, root_path
+from research_pipeline.csv_utils import parse_csv_file
+from research_pipeline.cli import add_input_output_args, build_parser
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -139,17 +142,7 @@ class ScoredFaculty:
 
 
 def parse_csv_rows(path: Path, required_columns: Iterable[str]) -> list[dict[str, str]]:
-    text = path.read_text(encoding="utf-8")
-    reader = csv.DictReader(io.StringIO(text))
-    if reader.fieldnames is None:
-        raise RuntimeError(f"{path} did not contain a CSV header row.")
-    missing = [column for column in required_columns if column not in reader.fieldnames]
-    if missing:
-        raise RuntimeError(f"{path} is missing required columns: {', '.join(missing)}")
-    rows = list(reader)
-    if not rows:
-        raise RuntimeError(f"{path} contained no data rows.")
-    return rows
+    return parse_csv_file(path, required_columns)
 
 
 def build_rows(rows: Iterable[dict[str, str]]) -> list[EnrichedFaculty]:
@@ -391,10 +384,14 @@ def render_markdown(rows: list[ScoredFaculty]) -> str:
     return "\n".join(lines)
 
 
-def main() -> int:
+def main(argv: list[str] | None = None) -> int:
+    parser = build_parser("Score enriched faculty rows and render a ranked markdown report.")
+    add_input_output_args(parser, default_input=INPUT_PATH, default_output=OUTPUT_PATH)
+    args = parser.parse_args(argv)
+
     rows = build_rows(
         parse_csv_rows(
-            INPUT_PATH,
+            args.input,
             required_columns=[
                 "school_name",
                 "rank",
@@ -423,8 +420,8 @@ def main() -> int:
             scored.row.professor_name,
         )
     )
-    OUTPUT_PATH.write_text(render_markdown(scored_rows), encoding="utf-8")
-    print(f"Wrote {len(scored_rows)} ranked entries to {OUTPUT_PATH}")
+    args.output.write_text(render_markdown(scored_rows), encoding="utf-8")
+    print(f"Wrote {len(scored_rows)} ranked entries to {args.output}")
     return 0
 
 

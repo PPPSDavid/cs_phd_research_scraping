@@ -16,6 +16,7 @@ like an official lab page.
 
 from __future__ import annotations
 
+import argparse
 import csv
 import html
 import io
@@ -30,7 +31,9 @@ from urllib.parse import urljoin, urlparse
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
 from research_pipeline.config import get_config_value
+from research_pipeline.csv_utils import parse_csv_file, parse_csv_text
 from research_pipeline.http import get_http_client
+from research_pipeline.cli import add_input_output_args, build_parser
 
 
 BASE_URL = "https://csrankings.org"
@@ -109,20 +112,12 @@ def fetch_text(url: str) -> str:
 
 
 def parse_csv_rows(path_or_text: str | Path, required_columns: Iterable[str], source_label: str) -> list[dict[str, str]]:
-    if isinstance(path_or_text, Path):
-        text = path_or_text.read_text(encoding="utf-8")
-    else:
-        text = path_or_text
-    reader = csv.DictReader(io.StringIO(text))
-    if reader.fieldnames is None:
-        raise FacultyCollectionError(f"{source_label} did not contain a CSV header row.")
-    missing = [column for column in required_columns if column not in reader.fieldnames]
-    if missing:
-        raise FacultyCollectionError(f"{source_label} is missing required columns: {', '.join(missing)}")
-    rows = list(reader)
-    if not rows:
-        raise FacultyCollectionError(f"{source_label} contained no data rows.")
-    return rows
+    try:
+        if isinstance(path_or_text, Path):
+            return parse_csv_file(path_or_text, required_columns)
+        return parse_csv_text(path_or_text, required_columns, source_label)
+    except RuntimeError as exc:
+        raise FacultyCollectionError(str(exc)) from exc
 
 
 def normalize_whitespace(text: str) -> str:
@@ -390,11 +385,15 @@ def build_author_index(author_rows: Iterable[dict[str, str]]) -> dict[tuple[str,
     return index
 
 
-def main() -> int:
+def main(argv: list[str] | None = None) -> int:
+    parser = build_parser("Collect verified faculty candidates from ranked schools.")
+    add_input_output_args(parser, default_input=INPUT_PATH, default_output=OUTPUT_PATH)
+    args = parser.parse_args(argv)
+
     verified_school_rows = parse_csv_rows(
-        INPUT_PATH,
+        args.input,
         required_columns=["school_name", "rank", "verified_source_url"],
-        source_label=str(INPUT_PATH),
+        source_label=str(args.input),
     )
     verified_schools = load_verified_schools(verified_school_rows)
 
@@ -438,8 +437,8 @@ def main() -> int:
         verified_rows.append(row)
 
     validate_rows(verified_rows, set(verified_schools))
-    write_output_csv(verified_rows, OUTPUT_PATH)
-    print(f"Wrote {len(verified_rows)} rows to {OUTPUT_PATH}")
+    write_output_csv(verified_rows, args.output)
+    print(f"Wrote {len(verified_rows)} rows to {args.output}")
     return 0
 
 

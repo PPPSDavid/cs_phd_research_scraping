@@ -1,85 +1,104 @@
 # CS PhD Research Scraping
 
-Configurable pipeline for:
-- pulling ranked schools from CSRankings
-- collecting faculty candidates in chosen top-level areas
-- enriching faculty rows from official public pages
-- scoring faculty against a configurable profile and prompt
+A configurable, evidence-first pipeline for turning public faculty webpages into a shortlist for PhD and RA exploration.
 
-## Project Structure
+The repo is built to be reusable:
+- change the school range
+- change the target research areas
+- change the scoring prompt and user profile
+- change output paths per run
+- keep crawling behavior conservative and respectful
 
-- `configs/pipeline.toml`: main project configuration
-- `configs/scoring_examples.json`: examples showing how the scoring prompt is intended to be applied
-- `research_pipeline/config.py`: shared config loader
-- `research_pipeline/http.py`: robots-aware HTTP client with retries, throttling, and caching
-- `scripts/01_get_csrankings.py`: fetch ranked schools
-- `scripts/02_collect_faculty.py`: collect candidate faculty
-- `scripts/03_enrich_faculty.py`: enrich faculty with page evidence
-- `scripts/04_rank_faculty.py`: score faculty and render markdown
-- `data/`: generated outputs
+## What This Pipeline Does
 
-## What Is Configurable
+1. Pulls schools from CSRankings.
+2. Collects candidate faculty only from those verified schools.
+3. Enriches each faculty row with evidence from official public pages.
+4. Scores faculty against a user profile using a strict, configurable prompt.
 
-Top-level behavior lives in `configs/pipeline.toml`.
+Current generated outputs live in [data](C:\Users\19665\SynologyDrive\Coding Projects\cs_phd_research_scraping\data).
 
-Examples:
-- change rank window with `ranking.rank_min` / `ranking.rank_max`
-- change faculty collection scope with `faculty_collection.target_parent_areas`
-- change ethical crawling defaults with `http.*`
-- change the scoring prompt and user profile with `scoring.*`
-- point to prompt usage examples with `scoring.examples_path`
+## Why This Repo Might Be Useful To Others
 
-## Ethics and Website Respect
+This project is intentionally not just a one-off notebook dump. It shows a compact pattern for:
+- staged data pipelines
+- config-driven scraping and ranking
+- conservative evidence extraction
+- prompt configuration with examples
+- simple CI and unit tests
 
-This project is designed to be conservative:
-- only uses publicly available pages
-- uses a project-specific `User-Agent`
-- checks `robots.txt` before extraction requests
-- applies per-host crawl delays
-- retries transient failures with backoff instead of hammering sites
-- keeps evidence-driven outputs and avoids inventing facts
-
-Important notes:
-- `robots.txt` is not a legal safe harbor by itself, but it is a useful baseline courtesy mechanism.
-- Some official university sites have broken SSL chains or flaky hosting. The client can retry carefully, but the safer default is still to skip pages when evidence is unclear.
-- You should review each target site's terms before scaling up runs.
-
-## Typical Workflow
+## Quick Start
 
 ```powershell
-python scripts/01_get_csrankings.py
-python scripts/02_collect_faculty.py
-python scripts/03_enrich_faculty.py
-python scripts/04_rank_faculty.py
+python -m unittest discover -s tests -v
+python scripts/run_pipeline.py
 ```
 
-## Prompt Configuration
-
-The scoring prompt is loaded from `configs/pipeline.toml`.
-Examples of expected usage are stored in `configs/scoring_examples.json`.
-
-This makes it easy to swap profiles, for example:
-- computational biology applicant
-- systems applicant
-- NLP applicant
-- HCI applicant
-
-without rewriting the scoring code.
-
-## Publishing
-
-Suggested publish flow:
+You can also run any stage individually and override input/output paths:
 
 ```powershell
-git init
-git checkout -b codex/generalize-project
-git add .
-git commit -m "Generalize CS faculty pipeline"
+python scripts/01_get_csrankings.py --output data/custom_schools.csv
+python scripts/02_collect_faculty.py --input data/custom_schools.csv --output data/custom_faculty_raw.csv
+python scripts/03_enrich_faculty.py --input data/custom_faculty_raw.csv --output data/custom_faculty_enriched.csv
+python scripts/04_rank_faculty.py --input data/custom_faculty_enriched.csv --output data/custom_final_ranked.md
 ```
 
-Then create a GitHub repo and push:
+## Configuration
+
+Main settings live in [pipeline.toml](C:\Users\19665\SynologyDrive\Coding Projects\cs_phd_research_scraping\configs\pipeline.toml).
+
+Useful knobs:
+- `ranking.rank_min` / `ranking.rank_max`
+- `faculty_collection.target_parent_areas`
+- `http.max_workers`
+- `http.retry_attempts`
+- `http.default_crawl_delay_seconds`
+- `http.obey_robots`
+- `scoring.strict_prompt`
+- `scoring.examples_path`
+
+Prompt usage examples live in [scoring_examples.json](C:\Users\19665\SynologyDrive\Coding Projects\cs_phd_research_scraping\configs\scoring_examples.json).
+
+## Ethics and Respectful Scraping
+
+The crawler is designed to be cautious:
+- custom user agent
+- `robots.txt` checks before fetches
+- per-host throttling
+- retry with backoff for transient failures
+- conservative extraction that prefers `UNKNOWN` over invented facts
+
+That still does not replace manual judgment. Before scaling up:
+- review site terms
+- keep concurrency modest
+- avoid scraping pages that disallow bots
+- prefer official faculty / department / lab pages over aggregators
+
+## Repository Layout
+
+- [configs/pipeline.toml](C:\Users\19665\SynologyDrive\Coding Projects\cs_phd_research_scraping\configs\pipeline.toml): main config
+- [configs/scoring_examples.json](C:\Users\19665\SynologyDrive\Coding Projects\cs_phd_research_scraping\configs\scoring_examples.json): prompt examples
+- [research_pipeline/config.py](C:\Users\19665\SynologyDrive\Coding Projects\cs_phd_research_scraping\research_pipeline\config.py): config loader
+- [research_pipeline/http.py](C:\Users\19665\SynologyDrive\Coding Projects\cs_phd_research_scraping\research_pipeline\http.py): robots-aware HTTP client
+- [research_pipeline/csv_utils.py](C:\Users\19665\SynologyDrive\Coding Projects\cs_phd_research_scraping\research_pipeline\csv_utils.py): reusable CSV helpers
+- [research_pipeline/cli.py](C:\Users\19665\SynologyDrive\Coding Projects\cs_phd_research_scraping\research_pipeline\cli.py): shared CLI helpers
+- [scripts/run_pipeline.py](C:\Users\19665\SynologyDrive\Coding Projects\cs_phd_research_scraping\scripts\run_pipeline.py): pipeline runner
+- [tests](C:\Users\19665\SynologyDrive\Coding Projects\cs_phd_research_scraping\tests): unit tests
+- [.github/workflows/tests.yml](C:\Users\19665\SynologyDrive\Coding Projects\cs_phd_research_scraping\.github\workflows\tests.yml): CI
+
+## Current Pipeline Stages
+
+- [01_get_csrankings.py](C:\Users\19665\SynologyDrive\Coding Projects\cs_phd_research_scraping\scripts\01_get_csrankings.py): verified school list
+- [02_collect_faculty.py](C:\Users\19665\SynologyDrive\Coding Projects\cs_phd_research_scraping\scripts\02_collect_faculty.py): candidate faculty collection
+- [03_enrich_faculty.py](C:\Users\19665\SynologyDrive\Coding Projects\cs_phd_research_scraping\scripts\03_enrich_faculty.py): evidence enrichment
+- [04_rank_faculty.py](C:\Users\19665\SynologyDrive\Coding Projects\cs_phd_research_scraping\scripts\04_rank_faculty.py): scoring + markdown report
+
+## CI
+
+GitHub Actions runs:
 
 ```powershell
-git remote add origin https://github.com/<your-user>/<your-repo>.git
-git push -u origin codex/generalize-project
+python -m unittest discover -s tests -v
 ```
+
+This keeps the project lightweight while still checking the reusable logic.
