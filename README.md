@@ -29,6 +29,17 @@ This project is intentionally not just a one-off notebook dump. It shows a compa
 
 ## Quick Start
 
+Create a virtual environment and install the declared dependencies:
+
+```powershell
+python -m venv .venv
+.venv\Scripts\Activate.ps1
+python -m pip install --upgrade pip
+python -m pip install -r requirements.txt
+```
+
+Then run tests and the pipeline:
+
 ```powershell
 python -m unittest discover -s tests -v
 python scripts/run_pipeline.py
@@ -98,7 +109,19 @@ That still does not replace manual judgment. Before scaling up:
 GitHub Actions runs:
 
 ```powershell
+python -m pip install -r requirements.txt
 python -m unittest discover -s tests -v
 ```
 
 This keeps the project lightweight while still checking the reusable logic.
+
+## Dependencies
+
+Runtime:
+- Python 3.12+
+- no third-party Python packages required right now
+
+Files:
+- [`requirements.txt`](requirements.txt): runtime install entrypoint
+- [`requirements-dev.txt`](requirements-dev.txt): development install entrypoint
+- [`pyproject.toml`](pyproject.toml): project metadata
