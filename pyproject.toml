@@ -1,0 +1,9 @@
+[project]
+name = "cs-phd-research-scraping"
+version = "0.1.0"
+description = "Configurable pipeline for collecting and ranking CS faculty from public web evidence."
+readme = "README.md"
+requires-python = ">=3.12"
+
+[tool.project]
+package = "research_pipeline"

@@ -1,0 +1,751 @@
+school_name,rank,professor_name,department,faculty_url,lab_url,source_type,notes
+Brown University,52,Adriana Schulz,Brown University Department of Computer Science,https://www.computationaldesign.group/adriana,https://www.computationaldesign.group/adriana,lab_page,areas=vision; verified_by=lab_page+school_name_on_page
+Brown University,52,Amy Greenwald,Brown University Department of Computer Science,http://cs.brown.edu/~amygreen,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+Brown University,52,Eli Upfal,Brown University Department of Computer Science,https://cs.brown.edu/people/eli,,faculty_page,"areas=ai,bio,mlmining; verified_by=official_domain"
+Brown University,52,Ellie Pavlick,Brown University Department of Computer Science,https://cs.brown.edu/people/epavlick/index.html,,faculty_page,"areas=mlmining,nlp; verified_by=official_domain"
+Brown University,52,Gabriel Taubin,Brown University Department of Computer Science,http://mesh.brown.edu/taubin,,faculty_page,areas=vision; verified_by=official_domain
+Brown University,52,George Dimitri Konidaris,Brown University Department of Computer Science,http://cs.brown.edu/people/gdk,,faculty_page,"areas=ai,mlmining,nlp; verified_by=official_domain"
+Brown University,52,Michael L. Littman,Brown University Department of Computer Science,http://cs.brown.edu/~mlittman,,faculty_page,"areas=ai,mlmining,nlp; verified_by=official_domain"
+Brown University,52,Nora Ayanian,Brown University Department of Computer Science,https://vivo.brown.edu/display/nayanian,,faculty_page,areas=ai; verified_by=official_domain
+Brown University,52,Pedro F. Felzenszwalb,Brown University Department of Computer Science,http://cs.brown.edu/~pff,,faculty_page,"areas=mlmining,vision; verified_by=official_domain"
+Brown University,52,Philip N. Klein,Brown University Department of Computer Science,http://cs.brown.edu/~pnk,,faculty_page,areas=vision; verified_by=official_domain
+Brown University,52,Sherief Reda,Brown University Department of Computer Science,https://scale-lab.github.io/pages/sreda.html,https://scale-lab.github.io/pages/sreda.html,lab_page,"areas=bio,vision; verified_by=lab_page+school_name_on_page"
+Brown University,52,Sorin Istrail,Brown University Department of Computer Science,http://www.brown.edu/Research/Istrail_Lab/sorin.php,,faculty_page,areas=bio; verified_by=official_domain
+Brown University,52,Srinath Sridhar 0002,Brown University Department of Computer Science,https://cs.brown.edu/people/ssrinath,,faculty_page,"areas=mlmining,vision; verified_by=official_domain"
+Brown University,52,Stefanie Tellex,Brown University Department of Computer Science,https://cs.brown.edu/people/stellex,,faculty_page,"areas=ai,mlmining,vision; verified_by=official_domain"
+Brown University,52,Stephen H. Bach,Brown University Department of Computer Science,https://cs.brown.edu/people/sbach,,faculty_page,"areas=ai,mlmining,nlp; verified_by=official_domain"
+Brown University,52,Suresh Venkatasubramanian,Brown University Department of Computer Science,https://vivo.brown.edu/display/suresh,,faculty_page,"areas=ai,mlmining,nlp,vision; verified_by=official_domain"
+Brown University,52,Thomas Serre,Brown University Department of Computer Science,https://serre-lab.clps.brown.edu/person/thomas-serre,,faculty_page,"areas=mlmining,vision; verified_by=official_domain"
+Brown University,52,Yu Cheng 0002,Brown University Department of Computer Science,http://cs.brown.edu/people/ycheng79,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+Oregon State University,53,Alan Fern,Electrical Engineering and Computer Science | College of Engineering,http://eecs.oregonstate.edu/~afern,,faculty_page,"areas=ai,mlmining,vision; verified_by=official_domain"
+Oregon State University,53,Alan Wang,Electrical Engineering and Computer Science | College of Engineering,http://eecs.oregonstate.edu/people/wang-alan,,faculty_page,areas=mlmining; verified_by=official_domain
+Oregon State University,53,Amir Nayyeri,Electrical Engineering and Computer Science | College of Engineering,https://web.engr.oregonstate.edu/~nayyeria,,faculty_page,areas=mlmining; verified_by=official_domain
+Oregon State University,53,Ben Lee,Electrical Engineering and Computer Science | College of Engineering,http://web.engr.oregonstate.edu/~benl/Ben_Lee/Welcome.html,,faculty_page,areas=mlmining; verified_by=official_domain
+Oregon State University,53,Cindy Grimm,Electrical Engineering and Computer Science | College of Engineering,http://web.engr.oregonstate.edu/~grimmc,,faculty_page,areas=ai; verified_by=official_domain
+Oregon State University,53,Eugene Zhang,Electrical Engineering and Computer Science | College of Engineering,http://web.engr.oregonstate.edu/~zhange,,faculty_page,areas=vision; verified_by=official_domain
+Oregon State University,53,Fuxin Li,Electrical Engineering and Computer Science | College of Engineering,http://eecs.oregonstate.edu/people/li-fuxin,,faculty_page,"areas=ai,mlmining,vision; verified_by=official_domain"
+Oregon State University,53,Glencora Borradaile,Electrical Engineering and Computer Science | College of Engineering,http://eecs.oregonstate.edu/people/borradaile-glencora,,faculty_page,areas=mlmining; verified_by=official_domain
+Oregon State University,53,Julie A. Adams,Electrical Engineering and Computer Science | College of Engineering,http://eecs.oregonstate.edu/people/adams-julie,,faculty_page,areas=ai; verified_by=official_domain
+Oregon State University,53,Liang Huang 0001,Electrical Engineering and Computer Science | College of Engineering,http://eecs.oregonstate.edu/~huanlian,,faculty_page,"areas=bio,mlmining,nlp; verified_by=official_domain"
+Oregon State University,53,Lizhong Chen,Electrical Engineering and Computer Science | College of Engineering,http://web.engr.oregonstate.edu/~chenliz,,faculty_page,"areas=mlmining,nlp; verified_by=official_domain"
+Oregon State University,53,Margaret M. Burnett,Electrical Engineering and Computer Science | College of Engineering,http://eecs.oregonstate.edu/~burnett,,faculty_page,areas=ai; verified_by=official_domain
+Oregon State University,53,Prasad Tadepalli,Electrical Engineering and Computer Science | College of Engineering,http://eecs.oregonstate.edu/~tadepall,,faculty_page,"areas=ai,mlmining,nlp; verified_by=official_domain"
+Oregon State University,53,Rakesh Bobba,Electrical Engineering and Computer Science | College of Engineering,http://eecs.oregonstate.edu/people/bobba-rakesh,,faculty_page,areas=mlmining; verified_by=official_domain
+Oregon State University,53,Raviv Raich,Electrical Engineering and Computer Science | College of Engineering,http://web.engr.oregonstate.edu/~raich,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+Oregon State University,53,Rebecca A. Hutchinson,Electrical Engineering and Computer Science | College of Engineering,http://web.engr.oregonstate.edu/~rah,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+Oregon State University,53,Sinisa Todorovic,Electrical Engineering and Computer Science | College of Engineering,http://web.engr.oregonstate.edu/~sinisa,,faculty_page,"areas=mlmining,vision; verified_by=official_domain"
+Oregon State University,53,Stefan Lee,Electrical Engineering and Computer Science | College of Engineering,http://web.engr.oregonstate.edu/~leestef,,faculty_page,"areas=ai,mlmining,nlp,vision; verified_by=official_domain"
+Oregon State University,53,Weng-Keen Wong,Electrical Engineering and Computer Science | College of Engineering,http://eecs.oregonstate.edu/people/wong-weng-keen,,faculty_page,"areas=ai,bio,mlmining,vision; verified_by=official_domain"
+Oregon State University,53,Xiao Fu 0001,Electrical Engineering and Computer Science | College of Engineering,http://people.oregonstate.edu/~fuxia,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+Oregon State University,53,Xiaoli Z. Fern,Electrical Engineering and Computer Science | College of Engineering,http://web.engr.oregonstate.edu/~xfern,,faculty_page,"areas=ai,mlmining,nlp,vision; verified_by=official_domain"
+University of Central Florida,53,Abhijit Mahalanobis,Home | UCF Department of Computer Science,https://www.crcv.ucf.edu/person/abhijit-mahalanobis,,faculty_page,areas=vision; verified_by=official_domain
+University of Central Florida,53,Amrit Singh Bedi,Home | UCF Department of Computer Science,https://www.cecs.ucf.edu/faculty/21197,,faculty_page,"areas=ai,mlmining,vision; verified_by=official_domain"
+University of Central Florida,53,Annie S. Wu,Home | UCF Department of Computer Science,http://www.cs.ucf.edu/~aswu,,faculty_page,areas=ai; verified_by=official_domain
+University of Central Florida,53,Aritra Dutta,Home | UCF Department of Computer Science,https://www.cs.ucf.edu/person/aritra-dutta,,faculty_page,"areas=ai,mlmining,vision; verified_by=official_domain"
+University of Central Florida,53,Charles E. Hughes,Home | UCF Department of Computer Science,http://www.cs.ucf.edu/~ceh,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+University of Central Florida,53,Chen Chen 0001,Home | UCF Department of Computer Science,https://www.crcv.ucf.edu/chenchen,,faculty_page,"areas=ai,mlmining,vision; verified_by=official_domain"
+University of Central Florida,53,David Mohaisen,Home | UCF Department of Computer Science,http://cs.ucf.edu/~mohaisen,,faculty_page,areas=vision; verified_by=official_domain
+University of Central Florida,53,George K. Atia,Home | UCF Department of Computer Science,http://eecs.ucf.edu/~atia,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+University of Central Florida,53,Gita Reese Sukthankar,Home | UCF Department of Computer Science,http://www.eecs.ucf.edu/~gitars,,faculty_page,"areas=ai,mlmining,vision; verified_by=official_domain"
+University of Central Florida,53,Greg Welch,Home | UCF Department of Computer Science,https://sreal.ucf.edu/people/welch,,faculty_page,areas=vision; verified_by=official_domain
+University of Central Florida,53,Haiyan Hu,Home | UCF Department of Computer Science,http://www.cs.ucf.edu/~haihu,,faculty_page,areas=bio; verified_by=official_domain
+University of Central Florida,53,Hassan Foroosh,Home | UCF Department of Computer Science,http://www.cs.ucf.edu/~foroosh,,faculty_page,"areas=ai,mlmining,nlp,vision; verified_by=official_domain"
+University of Central Florida,53,Ivan Garibay,Home | UCF Department of Computer Science,https://www.cs.ucf.edu/~garibay,,faculty_page,"areas=mlmining,nlp; verified_by=official_domain"
+University of Central Florida,53,Jialin Liu 0003,Home | UCF Department of Computer Science,https://www.cs.ucf.edu/person/jialin-liu,,faculty_page,areas=mlmining; verified_by=official_domain
+University of Central Florida,53,Jun Wang 0001,Home | UCF Department of Computer Science,http://www.cass.eecs.ucf.edu/?page_id=1249,,faculty_page,areas=ai; verified_by=official_domain
+University of Central Florida,53,Kien A. Hua,Home | UCF Department of Computer Science,https://dsg.cs.ucf.edu,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+University of Central Florida,53,Ladislau Bölöni,Home | UCF Department of Computer Science,http://www.cs.ucf.edu/~lboloni,,faculty_page,"areas=ai,mlmining,vision; verified_by=official_domain"
+University of Central Florida,53,Liqiang Wang 0001,Home | UCF Department of Computer Science,http://www.cs.ucf.edu/~lwang/index.html,,faculty_page,"areas=ai,mlmining,vision; verified_by=official_domain"
+University of Central Florida,53,Mubarak Shah,Home | UCF Department of Computer Science,https://www.crcv.ucf.edu/person/mubarak-shah,,faculty_page,"areas=ai,mlmining,nlp,vision; verified_by=official_domain"
+University of Central Florida,53,Nazanin Rahnavard,Home | UCF Department of Computer Science,http://cwnlab.eecs.ucf.edu,,faculty_page,"areas=ai,vision; verified_by=official_domain"
+University of Central Florida,53,Niels da Vitoria Lobo,Home | UCF Department of Computer Science,https://www.crcv.ucf.edu/person/niels-lobo,,faculty_page,areas=vision; verified_by=official_domain
+University of Central Florida,53,Ozlem O. Garibay,Home | UCF Department of Computer Science,https://www.cecs.ucf.edu/faculty/ozlem-ozmen-garibay,,faculty_page,"areas=bio,mlmining,nlp; verified_by=official_domain"
+University of Central Florida,53,Rickard Ewetz,Home | UCF Department of Computer Science,http://www.ece.ucf.edu/~ewetz,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+University of Central Florida,53,Roger Azevedo,Home | UCF Department of Computer Science,https://www.ist.ucf.edu/People/Roger-Azevedo,,faculty_page,areas=ai; verified_by=official_domain
+University of Central Florida,53,Ser-Nam Lim,Home | UCF Department of Computer Science,https://www.cs.ucf.edu/person/ser-nam-lim,,faculty_page,"areas=ai,mlmining,nlp,vision; verified_by=official_domain"
+University of Central Florida,53,Shahana Ibrahim,Home | UCF Department of Computer Science,https://www.cs.ucf.edu/person/shahana-ibrahim,,faculty_page,areas=mlmining; verified_by=official_domain
+University of Central Florida,53,Shaojie Zhang 0001,Home | UCF Department of Computer Science,http://www.cs.ucf.edu/~shzhang,,faculty_page,areas=bio; verified_by=official_domain
+University of Central Florida,53,Shibu Yooseph,Home | UCF Department of Computer Science,http://www.cs.ucf.edu/~syooseph,,faculty_page,areas=bio; verified_by=official_domain
+University of Central Florida,53,Shruti Vyas,Home | UCF Department of Computer Science,https://www.cs.ucf.edu/person/shruti-vyas,,faculty_page,"areas=ai,mlmining,vision; verified_by=official_domain"
+University of Central Florida,53,Song Wang 0013,Home | UCF Department of Computer Science,https://www.cs.ucf.edu/person/songwang,,faculty_page,"areas=ai,mlmining,nlp; verified_by=official_domain"
+University of Central Florida,53,Wu Lin,Home | UCF Department of Computer Science,https://www.cs.ucf.edu/person/wulin,,faculty_page,areas=mlmining; verified_by=official_domain
+University of Central Florida,53,Yogesh S. Rawat,Home | UCF Department of Computer Science,https://www.crcv.ucf.edu/person/rawat,,faculty_page,"areas=ai,mlmining,vision; verified_by=official_domain"
+University of Central Florida,53,Yue Wang 0068,Home | UCF Department of Computer Science,https://www.cs.ucf.edu/person/yue-wang,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+University of Central Florida,53,Yuzhang Shang,Home | UCF Department of Computer Science,https://www.ucf.edu/expert/yuzhang-shang,,faculty_page,"areas=mlmining,nlp,vision; verified_by=official_domain"
+University of Central Florida,53,Zhenyi Wang 0001,Home | UCF Department of Computer Science,https://www.ucf.edu/expert/zhenyi-wang,,faculty_page,"areas=ai,mlmining,nlp,vision; verified_by=official_domain"
+Indiana University,55,Alessandro Flammini,Computer Science,http://cnets.indiana.edu/aflammin,,faculty_page,areas=mlmining; verified_by=official_domain
+Indiana University,55,Chen Yu 0001,Computer Science,https://psych.indiana.edu/directory/faculty/yu-chen.html,,faculty_page,"areas=ai,mlmining,vision; verified_by=official_domain"
+Indiana University,55,Chenghong Wang,Computer Science,https://luddy.indiana.edu/contact/profile/index.html?Chenghong_Wang,,faculty_page,"areas=ai,mlmining,nlp,vision; verified_by=official_domain"
+Indiana University,55,Christopher Raphael,Computer Science,https://www.soic.indiana.edu/all-people/profile.html?profile_id=279,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+Indiana University,55,Da Yan 0001,Computer Science,https://homes.luddy.indiana.edu/yanda/home.html,,faculty_page,"areas=ai,mlmining,nlp; verified_by=official_domain"
+Indiana University,55,David B. Leake,Computer Science,https://www.cs.indiana.edu/~leake,,faculty_page,areas=ai; verified_by=official_domain
+Indiana University,55,David Crandall,Computer Science,http://www.cs.indiana.edu/~djcran,,faculty_page,"areas=ai,mlmining,vision; verified_by=official_domain"
+Indiana University,55,Eleftherios Garyfallidis,Computer Science,https://grg.sice.indiana.edu,,faculty_page,"areas=mlmining,vision; verified_by=official_domain"
+Indiana University,55,Fan Chen 0001,Computer Science,https://homes.luddy.indiana.edu/fc7,,faculty_page,areas=mlmining; verified_by=official_domain
+Indiana University,55,Fengguang Song,Computer Science,https://engineering.indiana.edu/contact/profile/index.html?Fengguang_Song,,faculty_page,areas=mlmining; verified_by=official_domain
+Indiana University,55,Filippo Menczer,Computer Science,http://cnets.indiana.edu/fil,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+Indiana University,55,Funda Ergün,Computer Science,http://homes.soic.indiana.edu/fergun,,faculty_page,areas=bio; verified_by=official_domain
+Indiana University,55,Haewoon Kwak,Computer Science,https://luddy.indiana.edu/contact/profile/index.html?Haewoon_Kwak,,faculty_page,areas=nlp; verified_by=official_domain
+Indiana University,55,Haixu Tang,Computer Science,http://www.informatics.indiana.edu/hatang,,faculty_page,"areas=bio,nlp; verified_by=official_domain"
+Indiana University,55,Lantao Liu,Computer Science,http://homes.sice.indiana.edu/lantao,,faculty_page,areas=mlmining; verified_by=official_domain
+Indiana University,55,Lei Jiang 0001,Computer Science,http://homes.sice.indiana.edu/jiang60,,faculty_page,"areas=mlmining,nlp,vision; verified_by=official_domain"
+Indiana University,55,Matthew W. Hahn,Computer Science,https://hahnlab.sitehost.iu.edu,https://hahnlab.sitehost.iu.edu,lab_page,areas=bio; verified_by=lab_page+school_name_on_page
+Indiana University,55,Mohsen Heidari,Computer Science,https://luddy.indiana.edu/contact/profile/index.html?Mohsen_Heidari,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+Indiana University,55,Prateek Sharma,Computer Science,http://homes.sice.indiana.edu/prateeks,,faculty_page,areas=mlmining; verified_by=official_domain
+Indiana University,55,Qin Zhang 0001,Computer Science,http://homes.soic.indiana.edu/qzhangcs,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+Indiana University,55,Roni Khardon,Computer Science,http://homes.sice.indiana.edu/rkhardon,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+Indiana University,55,Samantha M. W. Wood,Computer Science,https://luddy.indiana.edu/contact/profile/index.html?Samantha_Wood,,faculty_page,areas=mlmining; verified_by=official_domain
+Indiana University,55,Sandra Kübler,Computer Science,https://cl.indiana.edu/~skuebler,,faculty_page,areas=nlp; verified_by=official_domain
+Indiana University,55,Saúl A. Blanco,Computer Science,https://luddy.indiana.edu/contact/profile/?Saul_Blanco,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+Indiana University,55,Xuhong Zhang 0001,Computer Science,https://luddy.indiana.edu/contact/profile/?Xuhong_Zhang,,faculty_page,areas=nlp; verified_by=official_domain
+Indiana University,55,Yuzhen Ye,Computer Science,http://mendel.informatics.indiana.edu/~yye/lab,,faculty_page,areas=bio; verified_by=official_domain
+Indiana University,55,Zoran Tiganj,Computer Science,https://homes.luddy.indiana.edu/ztiganj,,faculty_page,"areas=ai,mlmining,nlp; verified_by=official_domain"
+University of Texas at Dallas,55,Benjamin Raichel,UT Dallas SSO Login,http://www.utdallas.edu/~bar150630,,faculty_page,areas=mlmining; verified_by=official_domain
+University of Texas at Dallas,55,Bhavani Thuraisingham,UT Dallas SSO Login,http://www.utdallas.edu/~bhavani.thuraisingham,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+University of Texas at Dallas,55,Dan I. Moldovan,UT Dallas SSO Login,http://cs.utdallas.edu/people/faculty/moldovan-dan,,faculty_page,"areas=ai,nlp; verified_by=official_domain"
+University of Texas at Dallas,55,Ding-Zhu Du,UT Dallas SSO Login,http://www.utdallas.edu/~dxd056000,,faculty_page,areas=mlmining; verified_by=official_domain
+University of Texas at Dallas,55,Farokh B. Bastani,UT Dallas SSO Login,https://www.utdallas.edu/~bastani,,faculty_page,areas=ai; verified_by=official_domain
+University of Texas at Dallas,55,Feng Chen 0001,UT Dallas SSO Login,https://personal.utdallas.edu/~fxc190007,,faculty_page,"areas=ai,mlmining,nlp; verified_by=official_domain"
+University of Texas at Dallas,55,Gopal Gupta 0001,UT Dallas SSO Login,http://www.utdallas.edu/~gupta,,faculty_page,areas=ai; verified_by=official_domain
+University of Texas at Dallas,55,Haim Schweitzer,UT Dallas SSO Login,http://www.utdallas.edu/~haim,,faculty_page,"areas=ai,mlmining,vision; verified_by=official_domain"
+University of Texas at Dallas,55,I-Ling Yen,UT Dallas SSO Login,http://www.utdallas.edu/~ilyen,,faculty_page,areas=ai; verified_by=official_domain
+University of Texas at Dallas,55,Jessica Ouyang 0001,UT Dallas SSO Login,https://personal.utdallas.edu/~jessica.ouyang,,faculty_page,areas=nlp; verified_by=official_domain
+University of Texas at Dallas,55,Latifur Khan,UT Dallas SSO Login,https://www.utdallas.edu/~lkhan,,faculty_page,"areas=ai,mlmining,nlp; verified_by=official_domain"
+University of Texas at Dallas,55,Nicholas Ruozzi,UT Dallas SSO Login,http://cs.utdallas.edu/people/faculty/nicholas-ruozzi,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+University of Texas at Dallas,55,Sanda M. Harabagiu,UT Dallas SSO Login,http://www.utdallas.edu/~sanda,,faculty_page,"areas=ai,mlmining,nlp; verified_by=official_domain"
+University of Texas at Dallas,55,Soneya Binta Hossain,UT Dallas SSO Login,https://assert-lab.github.io,https://assert-lab.github.io,lab_page,areas=mlmining; verified_by=lab_page+school_name_on_page
+University of Texas at Dallas,55,Sriraam Natarajan,UT Dallas SSO Login,http://utdallas.edu/~sxn177430,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+University of Texas at Dallas,55,Tien N. Nguyen,UT Dallas SSO Login,http://www.utdallas.edu/~tien.n.nguyen,,faculty_page,areas=nlp; verified_by=official_domain
+University of Texas at Dallas,55,Vibhav Gogate,UT Dallas SSO Login,https://personal.utdallas.edu/~vibhav.gogate/index.html,,faculty_page,"areas=ai,mlmining,nlp,vision; verified_by=official_domain"
+University of Texas at Dallas,55,Vincent Ng 0001,UT Dallas SSO Login,http://www.hlt.utdallas.edu/~vince,,faculty_page,"areas=ai,mlmining,nlp; verified_by=official_domain"
+University of Texas at Dallas,55,Weili Wu 0001,UT Dallas SSO Login,http://www.utdallas.edu/~weiliwu,,faculty_page,areas=mlmining; verified_by=official_domain
+University of Texas at Dallas,55,Xiaohu Guo,UT Dallas SSO Login,https://www.utdallas.edu/~xxg061000,,faculty_page,"areas=ai,vision; verified_by=official_domain"
+Rochester Inst. of Technology,57,Andrew Meneely,Department of Computer Science | Golisano College of Computing and Information Sciences | RIT,http://www.se.rit.edu/~andy,,faculty_page,areas=nlp; verified_by=official_domain
+Rochester Inst. of Technology,57,Anne R. Haake,Department of Computer Science | Golisano College of Computing and Information Sciences | RIT,https://www.rit.edu/gccis/anne-haake,,faculty_page,"areas=ai,mlmining,vision; verified_by=official_domain"
+Rochester Inst. of Technology,57,Ashiqur R. KhudaBukhsh,Department of Computer Science | Golisano College of Computing and Information Sciences | RIT,https://www.rit.edu/directory/axkvse-ashique-khudabukhsh,,faculty_page,"areas=ai,nlp; verified_by=official_domain"
+Rochester Inst. of Technology,57,Bartosz Krawczyk,Department of Computer Science | Golisano College of Computing and Information Sciences | RIT,https://www.rit.edu/directory/bxkcis-bartosz-krawczyk,,faculty_page,areas=ai; verified_by=official_domain
+Rochester Inst. of Technology,57,Christopher Homan,Department of Computer Science | Golisano College of Computing and Information Sciences | RIT,https://www.cs.rit.edu/~cmh,,faculty_page,"areas=ai,mlmining,nlp; verified_by=official_domain"
+Rochester Inst. of Technology,57,Edith Hemaspaandra,Department of Computer Science | Golisano College of Computing and Information Sciences | RIT,https://www.cs.rit.edu/~eh,,faculty_page,areas=ai; verified_by=official_domain
+Rochester Inst. of Technology,57,Ivona Bezáková,Department of Computer Science | Golisano College of Computing and Information Sciences | RIT,https://www.cs.rit.edu/~ib,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+Rochester Inst. of Technology,57,Jessica D. Bayliss,Department of Computer Science | Golisano College of Computing and Information Sciences | RIT,https://www.rit.edu/gccis/igm/jessica-bayliss,,faculty_page,areas=mlmining; verified_by=official_domain
+Rochester Inst. of Technology,57,Linwei Wang,Department of Computer Science | Golisano College of Computing and Information Sciences | RIT,https://www.rit.edu/gccis/linwei-wang,,faculty_page,"areas=mlmining,nlp,vision; verified_by=official_domain"
+Rochester Inst. of Technology,57,M. Mustafa Rafique,Department of Computer Science | Golisano College of Computing and Information Sciences | RIT,https://cs.rit.edu/~mrafique,,faculty_page,areas=nlp; verified_by=official_domain
+Rochester Inst. of Technology,57,Matt Huenerfauth,Department of Computer Science | Golisano College of Computing and Information Sciences | RIT,http://huenerfauth.ist.rit.edu,,faculty_page,areas=nlp; verified_by=official_domain
+Rochester Inst. of Technology,57,Mohan Kumar,Department of Computer Science | Golisano College of Computing and Information Sciences | RIT,https://www.cs.rit.edu/~mjk,,faculty_page,areas=mlmining; verified_by=official_domain
+Rochester Inst. of Technology,57,Nathan D. Cahill,Department of Computer Science | Golisano College of Computing and Information Sciences | RIT,https://people.rit.edu/ndcsma,,faculty_page,areas=vision; verified_by=official_domain
+Rochester Inst. of Technology,57,Peizhao Hu,Department of Computer Science | Golisano College of Computing and Information Sciences | RIT,https://www.cs.rit.edu/~ph,,faculty_page,areas=nlp; verified_by=official_domain
+Rochester Inst. of Technology,57,Pengcheng Shi,Department of Computer Science | Golisano College of Computing and Information Sciences | RIT,https://www.rit.edu/gccis/pengcheng-shi,,faculty_page,"areas=ai,mlmining,vision; verified_by=official_domain"
+Rochester Inst. of Technology,57,Pengfei Li,Department of Computer Science | Golisano College of Computing and Information Sciences | RIT,https://people.rit.edu/pflics,,faculty_page,"areas=ai,nlp,vision; verified_by=official_domain"
+Rochester Inst. of Technology,57,Qi Yu 0001,Department of Computer Science | Golisano College of Computing and Information Sciences | RIT,https://www.rit.edu/mining/qi-yu,,faculty_page,"areas=ai,mlmining,vision; verified_by=official_domain"
+Rochester Inst. of Technology,57,Richard Zanibbi,Department of Computer Science | Golisano College of Computing and Information Sciences | RIT,https://www.cs.rit.edu/~rlaz,,faculty_page,areas=vision; verified_by=official_domain
+Rochester Inst. of Technology,57,Roshan Lalintha Peiris,Department of Computer Science | Golisano College of Computing and Information Sciences | RIT,https://www.rit.edu/directory/rxpics-roshan-peiris,,faculty_page,areas=ai; verified_by=official_domain
+Rochester Inst. of Technology,57,Rui Li 0002,Department of Computer Science | Golisano College of Computing and Information Sciences | RIT,https://www.rit.edu/directory/rxlics-rui-li,,faculty_page,"areas=ai,mlmining,vision; verified_by=official_domain"
+Rochester Inst. of Technology,57,Varsha Dani,Department of Computer Science | Golisano College of Computing and Information Sciences | RIT,https://www.rit.edu/directory/vxdvcs-varsha-dani,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+Rochester Inst. of Technology,57,Weijie Zhao 0001,Department of Computer Science | Golisano College of Computing and Information Sciences | RIT,https://www.cs.rit.edu/~wjz,,faculty_page,"areas=ai,mlmining,nlp,vision; verified_by=official_domain"
+Rochester Inst. of Technology,57,Xumin Liu,Department of Computer Science | Golisano College of Computing and Information Sciences | RIT,https://www.cs.rit.edu/people/faculty/xl,,faculty_page,areas=mlmining; verified_by=official_domain
+Rochester Inst. of Technology,57,Yangming Li,Department of Computer Science | Golisano College of Computing and Information Sciences | RIT,https://people.rit.edu/ymliee,,faculty_page,"areas=ai,mlmining,nlp; verified_by=official_domain"
+Rochester Inst. of Technology,57,Yiqin Zhao,Department of Computer Science | Golisano College of Computing and Information Sciences | RIT,https://www.rit.edu/directory/yzigm-yiqin-zhao,,faculty_page,areas=vision; verified_by=official_domain
+Washington University in St. Louis,58,Aaron F. Bobick,Home | WashU Computer Science & Engineering,https://engineering.washu.edu/faculty/Aaron-Bobick.html,,faculty_page,"areas=ai,vision; verified_by=official_domain"
+Washington University in St. Louis,58,Chongjie Zhang,Home | WashU Computer Science & Engineering,https://engineering.washu.edu/faculty/Chongjie-Zhang.html,,faculty_page,"areas=ai,mlmining,nlp; verified_by=official_domain"
+Washington University in St. Louis,58,Fuhai Li 0001,Home | WashU Computer Science & Engineering,https://engineering.washu.edu/faculty/Fuhai-Li.html,,faculty_page,"areas=bio,mlmining; verified_by=official_domain"
+Washington University in St. Louis,58,Gregory Kehne,Home | WashU Computer Science & Engineering,https://engineering.washu.edu/faculty/Gregory-Kehne.html,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+Washington University in St. Louis,58,Jiaxin Huang 0001,Home | WashU Computer Science & Engineering,https://engineering.washu.edu/faculty/Jiaxin-Huang.html,,faculty_page,"areas=mlmining,nlp; verified_by=official_domain"
+Washington University in St. Louis,58,Nathan Jacobs,Home | WashU Computer Science & Engineering,https://engineering.washu.edu/faculty/Nathan-Jacobs.html,,faculty_page,"areas=ai,mlmining,vision; verified_by=official_domain"
+Washington University in St. Louis,58,Netanel Raviv,Home | WashU Computer Science & Engineering,https://sites.wustl.edu/ravivlab,https://sites.wustl.edu/ravivlab,lab_page,areas=mlmining; verified_by=lab_page+school_name_on_page
+Washington University in St. Louis,58,Qinghua Liu,Home | WashU Computer Science & Engineering,https://engineering.washu.edu/faculty/Qinghua-Liu.html,,faculty_page,"areas=bio,mlmining; verified_by=official_domain"
+Washington University in St. Louis,58,Ulugbek Kamilov,Home | WashU Computer Science & Engineering,https://cigroup.wustl.edu,https://cigroup.wustl.edu,lab_page,"areas=mlmining,vision; verified_by=lab_page+school_name_on_page"
+Washington University in St. Louis,58,Yixin Chen 0001,Home | WashU Computer Science & Engineering,https://engineering.washu.edu/faculty/Yixin-Chen.html,,faculty_page,"areas=ai,mlmining,vision; verified_by=official_domain"
+University of Florida,59,Alin Dobra,Department of Computer & Information Science & Engineering,http://www.cise.ufl.edu/~adobra,,faculty_page,"areas=bio,mlmining; verified_by=official_domain"
+University of Florida,59,Alina Zare,Department of Computer & Information Science & Engineering,https://faculty.eng.ufl.edu/machine-learning/people/faculty,,faculty_page,areas=mlmining; verified_by=official_domain
+University of Florida,59,Anand Rangarajan 0001,Department of Computer & Information Science & Engineering,https://www.cise.ufl.edu/~anand,,faculty_page,"areas=ai,mlmining,vision; verified_by=official_domain"
+University of Florida,59,Arunava Banerjee,Department of Computer & Information Science & Engineering,https://www.cise.ufl.edu/~arunava,,faculty_page,"areas=ai,mlmining,vision; verified_by=official_domain"
+University of Florida,59,Baba C. Vemuri,Department of Computer & Information Science & Engineering,https://www.cise.ufl.edu/~vemuri,,faculty_page,"areas=mlmining,vision; verified_by=official_domain"
+University of Florida,59,Bonnie J. Dorr,Department of Computer & Information Science & Engineering,https://www.cise.ufl.edu/~bonniejdorr,,faculty_page,"areas=ai,nlp; verified_by=official_domain"
+University of Florida,59,Christina Gardner-McCune,Department of Computer & Information Science & Engineering,https://www.cise.ufl.edu/people/faculty/gmccune,,faculty_page,areas=ai; verified_by=official_domain
+University of Florida,59,Daisy Zhe Wang,Department of Computer & Information Science & Engineering,http://dsr.cise.ufl.edu/daisyw,,faculty_page,"areas=ai,mlmining,nlp; verified_by=official_domain"
+University of Florida,59,Damon L. Woodard,Department of Computer & Information Science & Engineering,https://www.ece.ufl.edu/user/1469,,faculty_page,areas=vision; verified_by=official_domain
+University of Florida,59,Eakta Jain,Department of Computer & Information Science & Engineering,http://www.cise.ufl.edu/~ejain,,faculty_page,"areas=mlmining,vision; verified_by=official_domain"
+University of Florida,59,Eric D. Ragan,Department of Computer & Information Science & Engineering,https://www.cise.ufl.edu/ragan-eric,,faculty_page,areas=mlmining; verified_by=official_domain
+University of Florida,59,José A. B. Fortes,Department of Computer & Information Science & Engineering,https://www.acis.ufl.edu/people/fortes,,faculty_page,areas=mlmining; verified_by=official_domain
+University of Florida,59,Kejun Huang,Department of Computer & Information Science & Engineering,https://cise.ufl.edu/~kejun,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+University of Florida,59,Kevin R. B. Butler,Department of Computer & Information Science & Engineering,http://cise.ufl.edu/~butler,,faculty_page,areas=nlp; verified_by=official_domain
+University of Florida,59,Kristy Elizabeth Boyer,Department of Computer & Information Science & Engineering,https://www.cise.ufl.edu/boyer-kristy,,faculty_page,"areas=ai,nlp; verified_by=official_domain"
+University of Florida,59,My T. Thai,Department of Computer & Information Science & Engineering,http://www.cise.ufl.edu/~mythai,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+University of Florida,59,Patrick Traynor,Department of Computer & Information Science & Engineering,https://www.cise.ufl.edu/~traynor,,faculty_page,areas=mlmining; verified_by=official_domain
+University of Florida,59,Sanjay Ranka,Department of Computer & Information Science & Engineering,https://www.cise.ufl.edu/people/faculty/ranka,,faculty_page,"areas=ai,bio,mlmining; verified_by=official_domain"
+University of Florida,59,Shigang Chen,Department of Computer & Information Science & Engineering,http://www.cise.ufl.edu/~sgchen,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+University of Florida,59,Tamer Kahveci,Department of Computer & Information Science & Engineering,http://www.cise.ufl.edu/~tamer,,faculty_page,areas=bio; verified_by=official_domain
+University of Notre Dame,59,Adam Czajka,Home - Computer Science and Engineering,https://engineering.nd.edu/profiles/aczajka,,faculty_page,"areas=ai,vision; verified_by=official_domain"
+University of Notre Dame,59,Chaoli Wang 0001,Home - Computer Science and Engineering,http://www3.nd.edu/~cwang11/about.html,,faculty_page,areas=ai; verified_by=official_domain
+University of Notre Dame,59,Collin McMillan,Home - Computer Science and Engineering,http://www.cse.nd.edu/~cmc,,faculty_page,areas=nlp; verified_by=official_domain
+University of Notre Dame,59,David Chiang 0001,Home - Computer Science and Engineering,http://www3.nd.edu/~dchiang,,faculty_page,"areas=mlmining,nlp; verified_by=official_domain"
+University of Notre Dame,59,Jane Cleland-Huang,Home - Computer Science and Engineering,https://engineering.nd.edu/profiles/jcleland-huang,,faculty_page,areas=mlmining; verified_by=official_domain
+University of Notre Dame,59,Kevin W. Bowyer,Home - Computer Science and Engineering,http://www3.nd.edu/~kwb,,faculty_page,"areas=ai,mlmining,vision; verified_by=official_domain"
+University of Notre Dame,59,Nitesh V. Chawla,Home - Computer Science and Engineering,http://www3.nd.edu/~nchawla,,faculty_page,"areas=ai,mlmining,nlp,vision; verified_by=official_domain"
+University of Notre Dame,59,Patrick J. Flynn,Home - Computer Science and Engineering,http://www3.nd.edu/~flynn,,faculty_page,areas=vision; verified_by=official_domain
+University of Notre Dame,59,Ronald A. Metoyer,Home - Computer Science and Engineering,https://engineering.nd.edu/profiles/rmetoyer,,faculty_page,areas=ai; verified_by=official_domain
+University of Notre Dame,59,Tijana Milenkovic,Home - Computer Science and Engineering,http://www3.nd.edu/~tmilenko,,faculty_page,areas=bio; verified_by=official_domain
+University of Notre Dame,59,Tim Weninger,Home - Computer Science and Engineering,https://www3.nd.edu/~tweninge,,faculty_page,"areas=ai,nlp; verified_by=official_domain"
+University of Notre Dame,59,Toby Jia-Jun Li,Home - Computer Science and Engineering,https://cse.nd.edu/faculty/toby-jia-jun-li,,faculty_page,areas=nlp; verified_by=official_domain
+University of Notre Dame,59,Xiangliang Zhang 0001,Home - Computer Science and Engineering,https://engineering.nd.edu/faculty/xiangliang-zhang,,faculty_page,"areas=ai,mlmining,nlp; verified_by=official_domain"
+University of Notre Dame,59,Xiaobo Hu,Home - Computer Science and Engineering,http://www3.nd.edu/~shu,,faculty_page,"areas=ai,vision; verified_by=official_domain"
+University of Notre Dame,59,Xiaobo Sharon Hu,Home - Computer Science and Engineering,http://www3.nd.edu/~shu,,faculty_page,areas=vision; verified_by=official_domain
+University of Notre Dame,59,Yanfang Ye 0001,Home - Computer Science and Engineering,https://engineering.nd.edu/faculty/yanfang-fanny-ye,,faculty_page,"areas=ai,mlmining,nlp; verified_by=official_domain"
+University of Notre Dame,59,Yiyu Shi 0001,Home - Computer Science and Engineering,https://engineering.nd.edu/faculty/yiyu-shi,,faculty_page,"areas=ai,mlmining,vision; verified_by=official_domain"
+University of Rochester,59,Chenliang Xu,Department of Computer Science : University of Rochester,https://www.cs.rochester.edu/~cxu22,,faculty_page,"areas=ai,mlmining,vision; verified_by=official_domain"
+University of Rochester,59,Christopher M. Brown,Department of Computer Science : University of Rochester,https://www.cs.rochester.edu/~brown/home_orig.html,,faculty_page,"areas=ai,vision; verified_by=official_domain"
+University of Rochester,59,Daniel Gildea,Department of Computer Science : University of Rochester,https://www.cs.rochester.edu/u/gildea,,faculty_page,"areas=ai,mlmining,nlp; verified_by=official_domain"
+University of Rochester,59,Daniel Stefankovic,Department of Computer Science : University of Rochester,https://www.cs.rochester.edu/~stefanko,,faculty_page,"areas=mlmining,nlp; verified_by=official_domain"
+University of Rochester,59,Gaurav Sharma,Department of Computer Science : University of Rochester,https://hajim.rochester.edu/ece/sites/gsharma,,faculty_page,"areas=ai,mlmining,vision; verified_by=official_domain"
+University of Rochester,59,Gourab Ghoshal,Department of Computer Science : University of Rochester,http://gghoshal.pas.rochester.edu,,faculty_page,areas=ai; verified_by=official_domain
+University of Rochester,59,James F. Allen,Department of Computer Science : University of Rochester,http://www.cs.rochester.edu/~james,,faculty_page,"areas=ai,nlp; verified_by=official_domain"
+University of Rochester,59,Ji Liu 0002,Department of Computer Science : University of Rochester,http://www.cs.rochester.edu/u/jliu,,faculty_page,"areas=ai,mlmining,vision; verified_by=official_domain"
+University of Rochester,59,Jiebo Luo 0001,Department of Computer Science : University of Rochester,http://www.cs.rochester.edu/u/jluo,,faculty_page,"areas=ai,mlmining,nlp,vision; verified_by=official_domain"
+University of Rochester,59,Kai Shen,Department of Computer Science : University of Rochester,https://www.cs.rochester.edu/u/kshen,,faculty_page,"areas=ai,mlmining,nlp; verified_by=official_domain"
+University of Rochester,59,Lane A. Hemaspaandra,Department of Computer Science : University of Rochester,http://www.cs.rochester.edu/~lane,,faculty_page,areas=ai; verified_by=official_domain
+University of Rochester,59,Lenhart K. Schubert,Department of Computer Science : University of Rochester,https://www.cs.rochester.edu/~schubert,,faculty_page,"areas=ai,nlp; verified_by=official_domain"
+University of Rochester,59,Michael C. Huang 0001,Department of Computer Science : University of Rochester,http://www.ece.rochester.edu/~mihuang,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+University of Rochester,59,Ralf M. Häfner,Department of Computer Science : University of Rochester,https://www2.bcs.rochester.edu/sites/haefnerlab/index.html,,faculty_page,areas=mlmining; verified_by=official_domain
+University of Rochester,59,Randal C. Nelson,Department of Computer Science : University of Rochester,https://www.cs.rochester.edu/~nelson,,faculty_page,"areas=ai,vision; verified_by=official_domain"
+University of Rochester,59,Zhiyao Duan,Department of Computer Science : University of Rochester,https://hajim.rochester.edu/ece/sites/zduan,,faculty_page,"areas=ai,mlmining,vision; verified_by=official_domain"
+University of Texas at Arlington,59,Binbin Xie,Computer Science and Engineering - The University of Texas at Arlington,https://www.uta.edu/academics/faculty/profile?username=xieb,,faculty_page,"areas=ai,nlp; verified_by=official_domain"
+University of Texas at Arlington,59,Bo Fang 0002,Computer Science and Engineering - The University of Texas at Arlington,https://www.uta.edu/academics/faculty/profile?user=bo.fang,,faculty_page,areas=mlmining; verified_by=official_domain
+University of Texas at Arlington,59,Chengkai Li 0001,Computer Science and Engineering - The University of Texas at Arlington,http://ranger.uta.edu/~cli,,faculty_page,"areas=mlmining,nlp; verified_by=official_domain"
+University of Texas at Arlington,59,Dajiang Zhu,Computer Science and Engineering - The University of Texas at Arlington,https://mentis.uta.edu/explore/profile/dajiang-zhu,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+University of Texas at Arlington,59,Farhad Kamangar,Computer Science and Engineering - The University of Texas at Arlington,http://ranger.uta.edu/~kamangar,,faculty_page,"areas=ai,mlmining,vision; verified_by=official_domain"
+University of Texas at Arlington,59,Fillia Makedon,Computer Science and Engineering - The University of Texas at Arlington,http://heracleia.uta.edu/~makedon,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+University of Texas at Arlington,59,Gautam Das 0001,Computer Science and Engineering - The University of Texas at Arlington,http://ranger.uta.edu/~gdas,,faculty_page,areas=mlmining; verified_by=official_domain
+University of Texas at Arlington,59,Harry Shomer,Computer Science and Engineering - The University of Texas at Arlington,https://www.uta.edu/academics/faculty/profile?user=harry.shomer,,faculty_page,"areas=mlmining,nlp; verified_by=official_domain"
+University of Texas at Arlington,59,Hong Jiang 0001,Computer Science and Engineering - The University of Texas at Arlington,http://ranger.uta.edu/~jiang,,faculty_page,areas=ai; verified_by=official_domain
+University of Texas at Arlington,59,Junzhou Huang,Computer Science and Engineering - The University of Texas at Arlington,http://ranger.uta.edu/~huang,,faculty_page,"areas=ai,bio,mlmining,vision; verified_by=official_domain"
+University of Texas at Arlington,59,Manfred Huber,Computer Science and Engineering - The University of Texas at Arlington,http://ranger.uta.edu/~huber,,faculty_page,areas=ai; verified_by=official_domain
+University of Texas at Arlington,59,Sihong He,Computer Science and Engineering - The University of Texas at Arlington,https://www.uta.edu/academics/faculty/profile?username=hes2,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+University of Texas at Arlington,59,Vassilis Athitsos,Computer Science and Engineering - The University of Texas at Arlington,http://omega.uta.edu/~athitsos,,faculty_page,areas=vision; verified_by=official_domain
+University of Texas at Arlington,59,William J. Beksi,Computer Science and Engineering - The University of Texas at Arlington,http://ranger.uta.edu/~wjbeksi,,faculty_page,areas=vision; verified_by=official_domain
+University of Texas at Arlington,59,Yu Lei 0001,Computer Science and Engineering - The University of Texas at Arlington,http://ranger.uta.edu/~ylei,,faculty_page,areas=ai; verified_by=official_domain
+Dartmouth College,63,Alberto Quattrini Li,Department of Computer Science,https://web.cs.dartmouth.edu/people/alberto-quattrini-li,,faculty_page,areas=ai; verified_by=official_domain
+Dartmouth College,63,Amit Chakrabarti,Department of Computer Science,https://www.cs.dartmouth.edu/~ac,,faculty_page,areas=mlmining; verified_by=official_domain
+Dartmouth College,63,Andrew T. Campbell,Department of Computer Science,https://www.cs.dartmouth.edu/~campbell,,faculty_page,areas=ai; verified_by=official_domain
+Dartmouth College,63,Chris Bailey-Kellogg,Department of Computer Science,http://www.cs.dartmouth.edu/~cbk,,faculty_page,"areas=ai,bio; verified_by=official_domain"
+Dartmouth College,63,Christophe Hauser,Department of Computer Science,https://web.cs.dartmouth.edu/people/christophe-hauser,,faculty_page,areas=mlmining; verified_by=official_domain
+Dartmouth College,63,Daniel N. Rockmore,Department of Computer Science,http://www.cs.dartmouth.edu/~rockmore,,faculty_page,"areas=mlmining,vision; verified_by=official_domain"
+Dartmouth College,63,Deeparnab Chakrabarty,Department of Computer Science,http://web.cs.dartmouth.edu/people/deeparnab-chakrabarty,,faculty_page,areas=mlmining; verified_by=official_domain
+Dartmouth College,63,Nikhil Singh 0003,Department of Computer Science,https://nsingh1.host.dartmouth.edu,,faculty_page,"areas=ai,mlmining,vision; verified_by=official_domain"
+Dartmouth College,63,Rahul Sarpeshkar,Department of Computer Science,https://engineering.dartmouth.edu/community/faculty/rahul-sarpeshkar,,faculty_page,areas=mlmining; verified_by=official_domain
+Dartmouth College,63,Saeed Hassanpour,Department of Computer Science,https://www.hassanpourlab.com,https://www.hassanpourlab.com,lab_page,"areas=mlmining,nlp,vision; verified_by=lab_page+school_name_on_page"
+Dartmouth College,63,Sarah Masud Preum,Department of Computer Science,https://web.cs.dartmouth.edu/people/sarah-masud-preum,,faculty_page,"areas=ai,nlp; verified_by=official_domain"
+Dartmouth College,63,Soroush Vosoughi,Department of Computer Science,https://web.cs.dartmouth.edu/people/soroush-vosoughi,,faculty_page,"areas=ai,mlmining,nlp,vision; verified_by=official_domain"
+NJIT,63,Baruch Schieber,Home | Department of Computer Science,https://cs.njit.edu/faculty/sbar,,faculty_page,areas=mlmining; verified_by=official_domain
+NJIT,63,Chengjun Liu,Home | Department of Computer Science,http://cs.njit.edu/liu,,faculty_page,"areas=mlmining,vision; verified_by=official_domain"
+NJIT,63,Cong Shi 0004,Home | Department of Computer Science,https://web.njit.edu/~cs638,,faculty_page,"areas=ai,vision; verified_by=official_domain"
+NJIT,63,Cristian Borcea,Home | Department of Computer Science,http://cs.njit.edu/~borcea,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+NJIT,63,Frank Y. Shih,Home | Department of Computer Science,https://web.njit.edu/~shih,,faculty_page,areas=vision; verified_by=official_domain
+NJIT,63,Guiling Wang,Home | Department of Computer Science,https://web.njit.edu/~gwang,,faculty_page,areas=ai; verified_by=official_domain
+NJIT,63,Ioannis Koutis,Home | Department of Computer Science,https://web.njit.edu/~ikoutis,,faculty_page,areas=mlmining; verified_by=official_domain
+NJIT,63,James Geller,Home | Department of Computer Science,https://web.njit.edu/~geller,,faculty_page,areas=ai; verified_by=official_domain
+NJIT,63,Jason Tsong-Li Wang,Home | Department of Computer Science,https://web.njit.edu/~wangj,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+NJIT,63,Jing Li 0025,Home | Department of Computer Science,https://web.njit.edu/~jingli,,faculty_page,"areas=ai,mlmining,nlp; verified_by=official_domain"
+NJIT,63,Przemyslaw Musialski,Home | Department of Computer Science,https://web.njit.edu/~przem,,faculty_page,areas=vision; verified_by=official_domain
+NJIT,63,Senjuti Basu Roy,Home | Department of Computer Science,https://web.njit.edu/~senjutib,,faculty_page,areas=mlmining; verified_by=official_domain
+NJIT,63,Usman Roshan,Home | Department of Computer Science,http://cs.njit.edu/usman,,faculty_page,areas=bio; verified_by=official_domain
+NJIT,63,Zhi Wei 0001,Home | Department of Computer Science,https://web.njit.edu/~zhiwei,,faculty_page,"areas=ai,bio,mlmining; verified_by=official_domain"
+University of Connecticut,63,Alexander Russell,Home | School of Computing | College of Engineering,http://www.engr.uconn.edu/~acr,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+University of Connecticut,63,Ion I. Mandoiu,Home | School of Computing | College of Engineering,http://www.engr.uconn.edu/~ion,,faculty_page,areas=bio; verified_by=official_domain
+University of Connecticut,63,Jinbo Bi,Home | School of Computing | College of Engineering,http://www.engr.uconn.edu/~jinbo,,faculty_page,"areas=ai,bio,mlmining,vision; verified_by=official_domain"
+University of Connecticut,63,Laurent D. Michel,Home | School of Computing | College of Engineering,http://www.engr.uconn.edu/~ldm,,faculty_page,areas=ai; verified_by=official_domain
+University of Connecticut,63,Marten van Dijk,Home | School of Computing | College of Engineering,https://scl.engr.uconn.edu,,faculty_page,"areas=mlmining,vision; verified_by=official_domain"
+University of Connecticut,63,Mukul S. Bansal,Home | School of Computing | College of Engineering,http://www.engr.uconn.edu/~mukul,,faculty_page,areas=bio; verified_by=official_domain
+University of Connecticut,63,Pavel Skums,Home | School of Computing | College of Engineering,https://engineering.uconn.edu/person/pavel-skums,,faculty_page,areas=bio; verified_by=official_domain
+University of Connecticut,63,Qian Yang,Home | School of Computing | College of Engineering,https://www.qianyanglab.com,https://www.qianyanglab.com,lab_page,"areas=ai,vision; verified_by=lab_page+school_name_on_page"
+University of Connecticut,63,Robert McCartney,Home | School of Computing | College of Engineering,http://www.cse.uconn.edu/people/faculty,,faculty_page,areas=ai; verified_by=official_domain
+University of Connecticut,63,Sanguthevar Rajasekaran,Home | School of Computing | College of Engineering,http://www.engr.uconn.edu/~rajasek,,faculty_page,"areas=ai,mlmining,nlp; verified_by=official_domain"
+University of Connecticut,63,Shihao Ji 0001,Home | School of Computing | College of Engineering,https://sji.soc.uconn.edu,,faculty_page,"areas=ai,mlmining,nlp,vision; verified_by=official_domain"
+University of Connecticut,63,Song Han 0002,Home | School of Computing | College of Engineering,http://engr.uconn.edu/~song,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+University of Pittsburgh,63,Adriana Kovashka,Department of Computer Science,http://people.cs.pitt.edu/~kovashka,,faculty_page,"areas=ai,mlmining,nlp,vision; verified_by=official_domain"
+University of Pittsburgh,63,Alexandros Labrinidis,Department of Computer Science,http://labrinidis.cs.pitt.edu,,faculty_page,areas=mlmining; verified_by=official_domain
+University of Pittsburgh,63,Daqing He,Department of Computer Science,http://www.pitt.edu/~dah44,,faculty_page,"areas=mlmining,nlp; verified_by=official_domain"
+University of Pittsburgh,63,Diane J. Litman,Department of Computer Science,https://www.cs.pitt.edu/~litman,,faculty_page,"areas=ai,mlmining,nlp; verified_by=official_domain"
+University of Pittsburgh,63,Donald M. Chiarulli,Department of Computer Science,https://people.cs.pitt.edu/~don,,faculty_page,areas=mlmining; verified_by=official_domain
+University of Pittsburgh,63,Erin Walker,Department of Computer Science,https://cs.pitt.edu/faculty/tenure-stream/erin-walker,,faculty_page,areas=nlp; verified_by=official_domain
+University of Pittsburgh,63,Hassan A. Karimi,Department of Computer Science,http://gis.sis.pitt.edu,,faculty_page,areas=ai; verified_by=official_domain
+University of Pittsburgh,63,James B. D. Joshi,Department of Computer Science,http://www.sis.pitt.edu/jjoshi,,faculty_page,areas=mlmining; verified_by=official_domain
+University of Pittsburgh,63,Janyce Wiebe,Department of Computer Science,https://people.cs.pitt.edu/~wiebe,,faculty_page,"areas=ai,nlp; verified_by=official_domain"
+University of Pittsburgh,63,Jingtao Wang,Department of Computer Science,https://people.cs.pitt.edu/~jingtaow,,faculty_page,areas=vision; verified_by=official_domain
+University of Pittsburgh,63,Kayhan Batmanghelich,Department of Computer Science,https://kayhan.dbmi.pitt.edu,,faculty_page,"areas=ai,mlmining,nlp,vision; verified_by=official_domain"
+University of Pittsburgh,63,Konstantinos Pelechrinis,Department of Computer Science,http://www.pitt.edu/~kpele,,faculty_page,areas=mlmining; verified_by=official_domain
+University of Pittsburgh,63,Milos Hauskrecht,Department of Computer Science,https://cs.pitt.edu/~milos,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+University of Pittsburgh,63,Paul W. Munro,Department of Computer Science,http://www.pitt.edu/~pwm,,faculty_page,areas=mlmining; verified_by=official_domain
+University of Pittsburgh,63,Peter Brusilovsky,Department of Computer Science,http://www.pitt.edu/~peterb,,faculty_page,"areas=mlmining,nlp; verified_by=official_domain"
+University of Pittsburgh,63,Shi-Kuo Chang,Department of Computer Science,https://cs.pitt.edu/~chang,,faculty_page,areas=ai; verified_by=official_domain
+University of Pittsburgh,63,Stephen Lee,Department of Computer Science,http://www.sci.pitt.edu/faculty-and-research/faculty-directory/stephen-lee,,faculty_page,areas=mlmining; verified_by=official_domain
+University of Pittsburgh,63,Xiaowei Jia,Department of Computer Science,https://sites.pitt.edu/~xiaowei,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+University of Pittsburgh,63,Youtao Zhang,Department of Computer Science,https://cs.pitt.edu/~zhangyt,,faculty_page,areas=mlmining; verified_by=official_domain
+College of William and Mary,67,Bin Ren 0002,"Computer Science | School of Computing, Data Sciences & Physics | William & Mary",https://www.cs.wm.edu/~bren,,faculty_page,"areas=ai,mlmining,vision; verified_by=official_domain"
+College of William and Mary,67,Douglas C. Schmidt,"Computer Science | School of Computing, Data Sciences & Physics | William & Mary",https://dcschmidt.pages.wm.edu,,faculty_page,areas=ai; verified_by=official_domain
+College of William and Mary,67,Pieter Peers,"Computer Science | School of Computing, Data Sciences & Physics | William & Mary",http://www.cs.wm.edu/~ppeers,,faculty_page,areas=vision; verified_by=official_domain
+College of William and Mary,67,Qun Li 0001,"Computer Science | School of Computing, Data Sciences & Physics | William & Mary",http://www.cs.wm.edu/~liqun,,faculty_page,areas=ai; verified_by=official_domain
+College of William and Mary,67,Yi He 0007,"Computer Science | School of Computing, Data Sciences & Physics | William & Mary",https://yhe15.people.wm.edu,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+College of William and Mary,67,Zhenming Liu,"Computer Science | School of Computing, Data Sciences & Physics | William & Mary",http://www.wm.edu/as/computerscience/faculty/liu_zhenming.php,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+Florida State University,67,Shangqian Gao,DEPARTMENT OF COMPUTER SCIENCE – College of Arts and Sciences,https://www.cs.fsu.edu/department/faculty/sgao,,faculty_page,"areas=ai,mlmining,nlp,vision; verified_by=official_domain"
+Florida State University,67,Shibo Li,DEPARTMENT OF COMPUTER SCIENCE – College of Arts and Sciences,https://www.cs.fsu.edu/department/faculty/shiboli,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+Florida State University,67,Xian Fan,DEPARTMENT OF COMPUTER SCIENCE – College of Arts and Sciences,https://www.cs.fsu.edu/~fan/index.html,,faculty_page,areas=vision; verified_by=official_domain
+Florida State University,67,Yushun Dong,DEPARTMENT OF COMPUTER SCIENCE – College of Arts and Sciences,https://www.cs.fsu.edu/department/faculty/dong,,faculty_page,"areas=ai,mlmining,nlp; verified_by=official_domain"
+Florida State University,67,Zhenghao Zhang,DEPARTMENT OF COMPUTER SCIENCE – College of Arts and Sciences,http://www.cs.fsu.edu/~zzhang,,faculty_page,"areas=mlmining,vision; verified_by=official_domain"
+Michigan State University,67,Abdol-Hossein Esfahanian,Computer Science and Engineering | College of Engineering,http://www.cse.msu.edu/~esfahani,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+Michigan State University,67,Anil K. Jain 0001,Computer Science and Engineering | College of Engineering,https://www.cse.msu.edu/~jain,,faculty_page,"areas=mlmining,vision; verified_by=official_domain"
+Michigan State University,67,Arun Ross,Computer Science and Engineering | College of Engineering,http://www.cse.msu.edu/~rossarun,,faculty_page,areas=vision; verified_by=official_domain
+Michigan State University,67,Eric Torng,Computer Science and Engineering | College of Engineering,http://www.cse.msu.edu/~torng,,faculty_page,areas=bio; verified_by=official_domain
+Michigan State University,67,Jiliang Tang,Computer Science and Engineering | College of Engineering,http://www.cse.msu.edu/~tangjili,,faculty_page,"areas=ai,mlmining,nlp,vision; verified_by=official_domain"
+Michigan State University,67,Juyang Weng,Computer Science and Engineering | College of Engineering,http://www.cse.msu.edu/~weng,,faculty_page,"areas=ai,vision; verified_by=official_domain"
+Michigan State University,67,Karthik Nandakumar,Computer Science and Engineering | College of Engineering,https://www.cse.msu.edu/~nandakum,,faculty_page,"areas=ai,mlmining,nlp,vision; verified_by=official_domain"
+Michigan State University,67,Kevin Liu,Computer Science and Engineering | College of Engineering,http://www.cse.msu.edu/~kjl,,faculty_page,"areas=bio,mlmining,nlp; verified_by=official_domain"
+Michigan State University,67,Kristen Johnson,Computer Science and Engineering | College of Engineering,https://www.egr.msu.edu/people/profile/kristenj,,faculty_page,areas=nlp; verified_by=official_domain
+Michigan State University,67,Pang-Ning Tan,Computer Science and Engineering | College of Engineering,http://www.cse.msu.edu/~ptan,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+Michigan State University,67,Parisa Kordjamshidi,Computer Science and Engineering | College of Engineering,https://www.cse.msu.edu/~kordjams,,faculty_page,"areas=ai,mlmining,nlp,vision; verified_by=official_domain"
+Michigan State University,67,Qiben Yan,Computer Science and Engineering | College of Engineering,https://cse.msu.edu/~qyan,,faculty_page,areas=ai; verified_by=official_domain
+Michigan State University,67,Sijia Liu 0001,Computer Science and Engineering | College of Engineering,https://www.egr.msu.edu/people/profile/liusiji5,,faculty_page,"areas=ai,mlmining,nlp,vision; verified_by=official_domain"
+Michigan State University,67,Wolfgang Banzhaf,Computer Science and Engineering | College of Engineering,http://research.msu.edu/tag/wolfgang-banzhaf,,faculty_page,"areas=mlmining,vision; verified_by=official_domain"
+Michigan State University,67,Yanni Sun,Computer Science and Engineering | College of Engineering,https://www.egr.msu.edu/people/profile/yannisun,,faculty_page,areas=bio; verified_by=official_domain
+Michigan State University,67,Yiying Tong,Computer Science and Engineering | College of Engineering,http://www.cse.msu.edu/~ytong,,faculty_page,areas=vision; verified_by=official_domain
+Michigan State University,67,Yu Kong 0001,Computer Science and Engineering | College of Engineering,https://www.egr.msu.edu/~yukong,,faculty_page,"areas=ai,vision; verified_by=official_domain"
+Binghamton University,70,Adnan Siraj Rakin,School of Computing,https://www.binghamton.edu/computer-science/people/profile.html?id=arakin,,faculty_page,"areas=ai,vision; verified_by=official_domain"
+Binghamton University,70,Guanhua Yan,School of Computing,https://www.binghamton.edu/cs/people/ghyan.html,,faculty_page,areas=mlmining; verified_by=official_domain
+Binghamton University,70,Jeremy Blackburn,School of Computing,https://www.binghamton.edu/computer-science/contact/profile.html?id=jblackbu,,faculty_page,areas=nlp; verified_by=official_domain
+Binghamton University,70,Lijun Yin 0001,School of Computing,http://www.cs.binghamton.edu/~lijun,,faculty_page,areas=vision; verified_by=official_domain
+Binghamton University,70,Patrick H. Chen,School of Computing,https://www.binghamton.edu/computer-science/people/profile.html?id=patrickchen,,faculty_page,"areas=mlmining,nlp; verified_by=official_domain"
+Binghamton University,70,Shiqi Zhang 0001,School of Computing,https://www.binghamton.edu/computer-science/contact/profile.html?id=zhangs,,faculty_page,"areas=ai,vision; verified_by=official_domain"
+Binghamton University,70,Sujoy Sikdar,School of Computing,https://www.binghamton.edu/computer-science/contact/profile.html?id=ssikdar,,faculty_page,areas=ai; verified_by=official_domain
+Binghamton University,70,Weiyi Meng,School of Computing,http://www.cs.binghamton.edu/~meng,,faculty_page,"areas=ai,mlmining,nlp; verified_by=official_domain"
+Binghamton University,70,William T. Hallahan,School of Computing,https://www.binghamton.edu/computer-science/people/profile.html?id=whallahan,,faculty_page,areas=ai; verified_by=official_domain
+Binghamton University,70,Yingxue Zhang 0002,School of Computing,https://www.binghamton.edu/computer-science/people/profile.html?id=yzhang42,,faculty_page,areas=mlmining; verified_by=official_domain
+Binghamton University,70,Zhaohan Xi,School of Computing,https://www.binghamton.edu/computer-science/people/profile.html?id=zxi1,,faculty_page,"areas=mlmining,nlp,vision; verified_by=official_domain"
+Binghamton University,70,Zhen Xie,School of Computing,https://www.binghamton.edu/computer-science/people/profile.html?id=zxie3,,faculty_page,"areas=bio,vision; verified_by=official_domain"
+Binghamton University,70,Zhongfei Zhang,School of Computing,http://www.cs.binghamton.edu/~zhongfei,,faculty_page,"areas=ai,mlmining,nlp,vision; verified_by=official_domain"
+Stevens Institute of Technology,70,Enrique Dunn,Department of Computer Science | External Site (Under Construction),https://www.cs.stevens.edu/~edunn,,faculty_page,areas=vision; verified_by=official_domain
+Stevens Institute of Technology,70,Nikhil Muralidhar,Department of Computer Science | External Site (Under Construction),https://www.stevens.edu/profile/nmurali1,,faculty_page,"areas=ai,mlmining,nlp; verified_by=official_domain"
+Stevens Institute of Technology,70,Philippos Mordohai,Department of Computer Science | External Site (Under Construction),http://www.cs.stevens.edu/~mordohai,,faculty_page,"areas=ai,vision; verified_by=official_domain"
+Stevens Institute of Technology,70,Wendy Hui Wang,Department of Computer Science | External Site (Under Construction),http://www.cs.stevens.edu/~hwang4,,faculty_page,"areas=ai,mlmining,nlp; verified_by=official_domain"
+Stevens Institute of Technology,70,Xueqing Liu 0001,Department of Computer Science | External Site (Under Construction),https://www.cs.stevens.edu/~xliu127,,faculty_page,"areas=mlmining,nlp; verified_by=official_domain"
+Tufts University,70,Abiy Tasissa,Homepage | Department of Computer Science,https://engineering.tufts.edu/cs/people/faculty/abiy-tasissa,,faculty_page,areas=mlmining; verified_by=official_domain
+Tufts University,70,Anselm Blumer,Homepage | Department of Computer Science,http://www.cs.tufts.edu/~ablumer,,faculty_page,areas=bio; verified_by=official_domain
+Tufts University,70,Donna K. Slonim,Homepage | Department of Computer Science,http://www.cs.tufts.edu/~slonim,,faculty_page,areas=bio; verified_by=official_domain
+Tufts University,70,Eric L. Miller 0001,Homepage | Department of Computer Science,https://engineering.tufts.edu/cs/people/faculty/eric-miller,,faculty_page,"areas=mlmining,vision; verified_by=official_domain"
+Tufts University,70,Hari Sundar,Homepage | Department of Computer Science,https://engineering.tufts.edu/cs/people/faculty/hari-sundar,,faculty_page,areas=vision; verified_by=official_domain
+Tufts University,70,James M. Murphy,Homepage | Department of Computer Science,https://engineering.tufts.edu/cs/people/faculty/james-murphy,,faculty_page,"areas=bio,mlmining; verified_by=official_domain"
+Tufts University,70,Jivko Sinapov,Homepage | Department of Computer Science,https://www.eecs.tufts.edu/~jsinapov,,faculty_page,areas=ai; verified_by=official_domain
+Tufts University,70,Josephine Wolff,Homepage | Department of Computer Science,https://engineering.tufts.edu/cs/people/faculty/josephine-wolff,,faculty_page,areas=nlp; verified_by=official_domain
+Tufts University,70,Lenore Cowen,Homepage | Department of Computer Science,http://www.cs.tufts.edu/~cowen,,faculty_page,"areas=ai,bio; verified_by=official_domain"
+Tufts University,70,Liping Liu 0001,Homepage | Department of Computer Science,https://www.eecs.tufts.edu/~liulp,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+Tufts University,70,Mai Vu,Homepage | Department of Computer Science,https://engineering.tufts.edu/cs/people/faculty/mai-vu,,faculty_page,areas=nlp; verified_by=official_domain
+Tufts University,70,Matthias Scheutz,Homepage | Department of Computer Science,http://www.cs.tufts.edu/Faculty/matthias-scheutz.html,,faculty_page,"areas=ai,nlp; verified_by=official_domain"
+Tufts University,70,Misha Elena Kilmer,Homepage | Department of Computer Science,https://engineering.tufts.edu/cs/people/faculty/misha-kilmer,,faculty_page,areas=vision; verified_by=official_domain
+Tufts University,70,Reuth Mirsky,Homepage | Department of Computer Science,https://engineering.tufts.edu/cs/people/faculty/reuth-mirsky,,faculty_page,areas=ai; verified_by=official_domain
+Tufts University,70,Shuchin Aeron,Homepage | Department of Computer Science,https://engineering.tufts.edu/cs/people/faculty/shuchin-aeron,,faculty_page,"areas=ai,mlmining,vision; verified_by=official_domain"
+Tufts University,70,Soha Hassoun,Homepage | Department of Computer Science,http://www.cs.tufts.edu/~soha,,faculty_page,areas=mlmining; verified_by=official_domain
+Tufts University,70,Usman A. Khan,Homepage | Department of Computer Science,https://engineering.tufts.edu/cs/people/faculty/usman-khan,,faculty_page,areas=mlmining; verified_by=official_domain
+Tufts University,70,Vladimir Podolskii 0001,Homepage | Department of Computer Science,https://facultyprofiles.tufts.edu/vladimir-podolskii,,faculty_page,areas=mlmining; verified_by=official_domain
+Tufts University,70,Yingjie Lao,Homepage | Department of Computer Science,https://engineering.tufts.edu/cs/people/faculty/yingjie-lao,,faculty_page,"areas=ai,mlmining,vision; verified_by=official_domain"
+University of Delaware,70,Austin J. Brockmeier,Computer & Information Sciences at the University of Delaware,https://www.cis.udel.edu/people/faculty-profile/?id=264,,faculty_page,areas=mlmining; verified_by=official_domain
+University of Delaware,70,Ben Carterette,Computer & Information Sciences at the University of Delaware,http://ir.cis.udel.edu/~carteret,,faculty_page,"areas=mlmining,nlp; verified_by=official_domain"
+University of Delaware,70,Cathy H. Wu,Computer & Information Sciences at the University of Delaware,http://bioinformatics.udel.edu/people/personnel/cathy_wu,,faculty_page,"areas=ai,bio; verified_by=official_domain"
+University of Delaware,70,Christopher Rasmussen,Computer & Information Sciences at the University of Delaware,https://www.eecis.udel.edu/~cer,,faculty_page,areas=vision; verified_by=official_domain
+University of Delaware,70,Daniel L. Chester,Computer & Information Sciences at the University of Delaware,https://www.eecis.udel.edu/~chester,,faculty_page,"areas=ai,nlp; verified_by=official_domain"
+University of Delaware,70,Guangmo Tong,Computer & Information Sciences at the University of Delaware,https://udel.edu/~amotong,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+University of Delaware,70,Guoquan Huang 0001,Computer & Information Sciences at the University of Delaware,https://udel.edu/~ghuang,,faculty_page,areas=vision; verified_by=official_domain
+University of Delaware,70,Hagit Shatkay,Computer & Information Sciences at the University of Delaware,https://www.eecis.udel.edu/~shatkay,,faculty_page,"areas=bio,mlmining; verified_by=official_domain"
+University of Delaware,70,Hui Fang 0001,Computer & Information Sciences at the University of Delaware,http://www.ece.udel.edu/~hfang,,faculty_page,areas=nlp; verified_by=official_domain
+University of Delaware,70,Ilya Safro,Computer & Information Sciences at the University of Delaware,https://www.eecis.udel.edu/~isafro,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+University of Delaware,70,Ioannis M. Rekleitis,Computer & Information Sciences at the University of Delaware,https://www.cis.udel.edu/people/faculty/ioannis-rekleitis,,faculty_page,areas=ai; verified_by=official_domain
+University of Delaware,70,K. Vijay-Shanker,Computer & Information Sciences at the University of Delaware,https://www.eecis.udel.edu/~vijay,,faculty_page,"areas=bio,mlmining,nlp; verified_by=official_domain"
+University of Delaware,70,Kathleen F. McCoy,Computer & Information Sciences at the University of Delaware,http://udel.edu/~mccoy,,faculty_page,areas=nlp; verified_by=official_domain
+University of Delaware,70,Keith S. Decker,Computer & Information Sciences at the University of Delaware,https://www.eecis.udel.edu/~decker,,faculty_page,areas=ai; verified_by=official_domain
+University of Delaware,70,Li Liao,Computer & Information Sciences at the University of Delaware,https://www.eecis.udel.edu/~lliao,,faculty_page,areas=bio; verified_by=official_domain
+University of Delaware,70,Mohammad Mahdi Khalili,Computer & Information Sciences at the University of Delaware,https://sites.udel.edu/khalili,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+University of Delaware,70,Rahmatollah Beheshti,Computer & Information Sciences at the University of Delaware,https://www.cis.udel.edu/people/faculty-profile/?id=265,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+University of Delaware,70,Roghayeh Barmaki,Computer & Information Sciences at the University of Delaware,https://www.cis.udel.edu/people/faculty-profile/?id=263,,faculty_page,areas=ai; verified_by=official_domain
+University of Delaware,70,Sandra Carberry,Computer & Information Sciences at the University of Delaware,https://www.eecis.udel.edu/~carberry,,faculty_page,"areas=ai,mlmining,nlp; verified_by=official_domain"
+Vanderbilt University,70,Abhishek Dubey,Department of Computer Science - School of EngineeringSchool of Engineering,https://engineering.vanderbilt.edu/bio/?pid=abhishek-dubey,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+Vanderbilt University,70,Bennett A. Landman,Department of Computer Science - School of EngineeringSchool of Engineering,https://engineering.vanderbilt.edu/bio/?pid=bennett-landman,,faculty_page,"areas=mlmining,vision; verified_by=official_domain"
+Vanderbilt University,70,Bobby Bodenheimer,Department of Computer Science - School of EngineeringSchool of Engineering,https://engineering.vanderbilt.edu/bio/?pid=robert-bodenheimer,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+Vanderbilt University,70,Bradley A. Malin,Department of Computer Science - School of EngineeringSchool of Engineering,https://hiplab.mc.vanderbilt.edu/people/malin,,faculty_page,"areas=mlmining,nlp; verified_by=official_domain"
+Vanderbilt University,70,Catie Chang,Department of Computer Science - School of EngineeringSchool of Engineering,http://www.cchanglab.net,http://www.cchanglab.net,lab_page,areas=mlmining; verified_by=lab_page+school_name_on_page
+Vanderbilt University,70,Daniel B. Work,Department of Computer Science - School of EngineeringSchool of Engineering,https://engineering.vanderbilt.edu/bio/daniel-work,,faculty_page,areas=mlmining; verified_by=official_domain
+Vanderbilt University,70,Dario J. Englot,Department of Computer Science - School of EngineeringSchool of Engineering,https://www.vanderbilt.edu/vise/visepeople/dario-j-englot,,faculty_page,areas=mlmining; verified_by=official_domain
+Vanderbilt University,70,Gautam Biswas,Department of Computer Science - School of EngineeringSchool of Engineering,https://engineering.vanderbilt.edu/bio/?pid=gautam-biswas,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+Vanderbilt University,70,Ipek Oguz,Department of Computer Science - School of EngineeringSchool of Engineering,https://engineering.vanderbilt.edu/bio/?pid=ipek-oguz,,faculty_page,areas=vision; verified_by=official_domain
+Vanderbilt University,70,Ivelin Georgiev,Department of Computer Science - School of EngineeringSchool of Engineering,https://www.vanderbilt.edu/evolution/person/ivelin-georgiev,,faculty_page,areas=bio; verified_by=official_domain
+Vanderbilt University,70,Jack H. Noble,Department of Computer Science - School of EngineeringSchool of Engineering,https://my.vanderbilt.edu/jacknoble,,faculty_page,areas=vision; verified_by=official_domain
+Vanderbilt University,70,Kevin Leach,Department of Computer Science - School of EngineeringSchool of Engineering,https://engineering.vanderbilt.edu/bio/?pid=kevin-leach,,faculty_page,"areas=mlmining,nlp; verified_by=official_domain"
+Vanderbilt University,70,Matthew Berger,Department of Computer Science - School of EngineeringSchool of Engineering,https://engineering.vanderbilt.edu/bio/?pid=matthew-berger,,faculty_page,"areas=nlp,vision; verified_by=official_domain"
+Vanderbilt University,70,Matthew Johnson-Roberson,Department of Computer Science - School of EngineeringSchool of Engineering,https://news.vanderbilt.edu/tag/matthew-johnson-roberson,,faculty_page,"areas=ai,mlmining,vision; verified_by=official_domain"
+Vanderbilt University,70,Meiyi Ma,Department of Computer Science - School of EngineeringSchool of Engineering,https://engineering.vanderbilt.edu/bio/?pid=meiyi-ma,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+Vanderbilt University,70,Taehyun Hwang,Department of Computer Science - School of EngineeringSchool of Engineering,https://www.hwanglab.org,https://www.hwanglab.org,lab_page,"areas=ai,mlmining; verified_by=lab_page+school_name_on_page"
+Vanderbilt University,70,Vishesh Kumar,Department of Computer Science - School of EngineeringSchool of Engineering,https://lab.vanderbilt.edu/live/person/vishesh-kumar,,faculty_page,"areas=ai,vision; verified_by=official_domain"
+Vanderbilt University,70,Xenofon D. Koutsoukos,Department of Computer Science - School of EngineeringSchool of Engineering,https://engineering.vanderbilt.edu/bio/?pid=xenofon-koutsoukos,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+Vanderbilt University,70,Yuankai Huo,Department of Computer Science - School of EngineeringSchool of Engineering,https://my.vanderbilt.edu/huolab,,faculty_page,"areas=mlmining,vision; verified_by=official_domain"
+Vanderbilt University,70,Ákos Lédeczi,Department of Computer Science - School of EngineeringSchool of Engineering,https://www.isis.vanderbilt.edu/akos,,faculty_page,areas=ai; verified_by=official_domain
+Clemson University,75,Abolfazl Razi,School of Computing,https://arazi.people.clemson.edu,,faculty_page,"areas=ai,mlmining,vision; verified_by=official_domain"
+Clemson University,75,Eric Patterson,School of Computing,https://people.cs.clemson.edu/~ekp,,faculty_page,areas=vision; verified_by=official_domain
+Clemson University,75,Feng Luo 0001,School of Computing,https://people.cs.clemson.edu/~luofeng,,faculty_page,"areas=ai,mlmining,nlp; verified_by=official_domain"
+Clemson University,75,James Wang,School of Computing,https://people.cs.clemson.edu/~jzwang,,faculty_page,"areas=nlp,vision; verified_by=official_domain"
+Clemson University,75,Long Cheng 0005,School of Computing,https://people.computing.clemson.edu/~lcheng2,,faculty_page,"areas=mlmining,nlp; verified_by=official_domain"
+Clemson University,75,Rong Ge 0002,School of Computing,https://people.cs.clemson.edu/~rge,,faculty_page,areas=mlmining; verified_by=official_domain
+UNC - Charlotte,75,Andrew R. Willis,Homepage - College of Computing and Informatics,https://ece.charlotte.edu/directory/dr-andrew-r-willis-phd,,faculty_page,areas=vision; verified_by=official_domain
+UNC - Charlotte,75,Anni Li,Homepage - College of Computing and Informatics,https://ece.charlotte.edu/directory/dr-anni-li-phd,,faculty_page,areas=mlmining; verified_by=official_domain
+UNC - Charlotte,75,David C. Wilson,Homepage - College of Computing and Informatics,https://cci.charlotte.edu/people/david-wilson,,faculty_page,areas=ai; verified_by=official_domain
+UNC - Charlotte,75,Depeng Xu 0001,Homepage - College of Computing and Informatics,https://cci.charlotte.edu/people/depeng-xu,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+UNC - Charlotte,75,Hamed Tabkhi,Homepage - College of Computing and Informatics,https://ece.charlotte.edu/directory/dr-hamed-tabkhi-phd,,faculty_page,areas=ai; verified_by=official_domain
+UNC - Charlotte,75,Jeremy Holleman,Homepage - College of Computing and Informatics,https://ece.charlotte.edu/directory/dr-jeremy-holleman-phd,,faculty_page,areas=mlmining; verified_by=official_domain
+UNC - Charlotte,75,Jian Xiang,Homepage - College of Computing and Informatics,https://cci.charlotte.edu/people/jian-xiang,,faculty_page,areas=mlmining; verified_by=official_domain
+UNC - Charlotte,75,Mirsad Hadzikadic,Homepage - College of Computing and Informatics,https://cci.charlotte.edu/people/mirsad-hadzikadic,,faculty_page,areas=ai; verified_by=official_domain
+UNC - Charlotte,75,Nadia Najjar,Homepage - College of Computing and Informatics,https://cci.charlotte.edu/people/nadia-najjar,,faculty_page,areas=ai; verified_by=official_domain
+UNC - Charlotte,75,Ran Zhang,Homepage - College of Computing and Informatics,https://ece.charlotte.edu/directory/dr-ran-zhang-phd,,faculty_page,"areas=bio,mlmining,nlp,vision; verified_by=official_domain"
+UNC - Charlotte,75,Weichao Wang,Homepage - College of Computing and Informatics,https://cci.charlotte.edu/people/weichao-wang,,faculty_page,"areas=ai,nlp; verified_by=official_domain"
+UNC - Charlotte,75,Yaorong Ge,Homepage - College of Computing and Informatics,https://cci.charlotte.edu/people/yaorong-ge,,faculty_page,areas=vision; verified_by=official_domain
+UNC - Charlotte,75,Yong Zhang,Homepage - College of Computing and Informatics,https://ece.charlotte.edu/directory/dr-yong-zhang-phd,,faculty_page,"areas=ai,nlp,vision; verified_by=official_domain"
+Univ. of California - Merced,75,Alberto Cerpa,Computer Science & Engineering (CSE) | School of Engineering,http://www.andes.ucmerced.edu/~acerpa,,faculty_page,areas=ai; verified_by=official_domain
+Univ. of California - Merced,75,David C. Noelle,Computer Science & Engineering (CSE) | School of Engineering,https://eecs.ucmerced.edu/content/david-noelle,,faculty_page,areas=ai; verified_by=official_domain
+Univ. of California - Merced,75,Dong Li 0001,Computer Science & Engineering (CSE) | School of Engineering,https://faculty.ucmerced.edu/dong-li,,faculty_page,areas=mlmining; verified_by=official_domain
+Univ. of California - Merced,75,Miguel Á. Carreira-Perpiñán,Computer Science & Engineering (CSE) | School of Engineering,https://faculty.ucmerced.edu/mcarreira-perpinan,,faculty_page,"areas=ai,mlmining,nlp,vision; verified_by=official_domain"
+Univ. of California - Merced,75,Ming-Hsuan Yang 0001,Computer Science & Engineering (CSE) | School of Engineering,https://faculty.ucmerced.edu/mhyang,,faculty_page,"areas=ai,mlmining,nlp,vision; verified_by=official_domain"
+Univ. of California - Merced,75,Shawn D. Newsam,Computer Science & Engineering (CSE) | School of Engineering,https://faculty.ucmerced.edu/snewsam/index.html,,faculty_page,"areas=mlmining,vision; verified_by=official_domain"
+Univ. of California - Merced,75,Wan Du,Computer Science & Engineering (CSE) | School of Engineering,https://faculty.ucmerced.edu/wdu,,faculty_page,areas=mlmining; verified_by=official_domain
+Univ. of California - Merced,75,Yiwei Wang 0001,Computer Science & Engineering (CSE) | School of Engineering,https://engineering.ucmerced.edu/content/yiwei-wang,,faculty_page,"areas=ai,mlmining,nlp,vision; verified_by=official_domain"
+University of Georgia,75,In Kee Kim,University of Georgia,https://cobweb.cs.uga.edu/~kim,,faculty_page,areas=ai; verified_by=official_domain
+University of Georgia,75,Jaewoo Lee,University of Georgia,http://cobweb.cs.uga.edu/~jwlee,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+University of Georgia,75,Jian Liu 0001,University of Georgia,https://www.cs.uga.edu/news/stories/2025/2025-summer-update-director-school-computing,,faculty_page,"areas=ai,vision; verified_by=official_domain"
+University of Georgia,75,John A. Miller 0001,University of Georgia,http://cobweb.cs.uga.edu/~jam,,faculty_page,areas=bio; verified_by=official_domain
+University of Georgia,75,Krys J. Kochut,University of Georgia,http://cobweb.cs.uga.edu/~kochut,,faculty_page,areas=bio; verified_by=official_domain
+University of Georgia,75,Kyu Hyung Lee,University of Georgia,http://cobweb.cs.uga.edu/~kyuhlee,,faculty_page,areas=ai; verified_by=official_domain
+University of Georgia,75,Liming Cai,University of Georgia,http://cobweb.cs.uga.edu/~cai,,faculty_page,areas=bio; verified_by=official_domain
+University of Georgia,75,Prashant Doshi,University of Georgia,http://thinc.cs.uga.edu/personnel.html,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+University of Georgia,75,Shannon Quinn,University of Georgia,http://cobweb.cs.uga.edu/~squinn,,faculty_page,areas=mlmining; verified_by=official_domain
+University of Georgia,75,Suchendra M. Bhandarkar,University of Georgia,http://cobweb.cs.uga.edu/~suchi,,faculty_page,areas=vision; verified_by=official_domain
+University of Georgia,75,Tianming Liu 0001,University of Georgia,http://cobweb.cs.uga.edu/~tliu,,faculty_page,"areas=ai,mlmining,nlp,vision; verified_by=official_domain"
+University of Georgia,75,Walter D. Potter,University of Georgia,http://cobweb.cs.uga.edu/~potter,,faculty_page,areas=bio; verified_by=official_domain
+Worcester Polytechnic Institute,75,Bashima Islam,Computer Science,https://users.wpi.edu/~bislam,,faculty_page,areas=nlp; verified_by=official_domain
+Worcester Polytechnic Institute,75,Berk Çalli,Computer Science,https://www.wpi.edu/people/faculty/bcalli,,faculty_page,areas=vision; verified_by=official_domain
+Worcester Polytechnic Institute,75,Candace L. Sidner,Computer Science,http://www.wpi.edu/academics/facultydir/cls.html,,faculty_page,"areas=ai,nlp; verified_by=official_domain"
+Worcester Polytechnic Institute,75,Carolina Ruiz,Computer Science,http://www.cs.wpi.edu/~ruiz,,faculty_page,areas=ai; verified_by=official_domain
+Worcester Polytechnic Institute,75,Charles Rich,Computer Science,http://www.cs.wpi.edu/~rich,,faculty_page,"areas=ai,nlp; verified_by=official_domain"
+Worcester Polytechnic Institute,75,David C. Brown,Computer Science,http://www.wpi.edu/academics/facultydir/dcb.html,,faculty_page,areas=ai; verified_by=official_domain
+Worcester Polytechnic Institute,75,Dmitry Korkin,Computer Science,http://www.wpi.edu/academics/facultydir/dk2.html,,faculty_page,"areas=ai,bio; verified_by=official_domain"
+Worcester Polytechnic Institute,75,Elke A. Rundensteiner,Computer Science,http://davis.wpi.edu/dsrg/MEMBERS/rundenst,,faculty_page,"areas=ai,mlmining,nlp; verified_by=official_domain"
+Worcester Polytechnic Institute,75,Emmanuel Agu,Computer Science,http://www.wpi.edu/academics/facultydir/eoa.html,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+Worcester Polytechnic Institute,75,Jacob Whitehill,Computer Science,https://www.wpi.edu/academics/facultydir/200331.htm,,faculty_page,"areas=ai,mlmining,vision; verified_by=official_domain"
+Worcester Polytechnic Institute,75,Joseph E. Beck,Computer Science,http://www.wpi.edu/academics/facultydir/jb7.html,,faculty_page,areas=ai; verified_by=official_domain
+Worcester Polytechnic Institute,75,Kyumin Lee,Computer Science,http://web.cs.wpi.edu/~kmlee,,faculty_page,"areas=mlmining,nlp; verified_by=official_domain"
+Worcester Polytechnic Institute,75,Michael A. Gennert,Computer Science,http://www.wpi.edu/~michaelg,,faculty_page,areas=vision; verified_by=official_domain
+Worcester Polytechnic Institute,75,Neil T. Heffernan,Computer Science,http://www.wpi.edu/academics/facultydir/nth.html,,faculty_page,"areas=mlmining,nlp; verified_by=official_domain"
+Worcester Polytechnic Institute,75,Tian Guo 0001,Computer Science,https://web.cs.wpi.edu/~tian,,faculty_page,"areas=mlmining,vision; verified_by=official_domain"
+Worcester Polytechnic Institute,75,Xiangnan Kong,Computer Science,https://www.wpi.edu/people/faculty/xkong,,faculty_page,"areas=ai,mlmining,nlp; verified_by=official_domain"
+Worcester Polytechnic Institute,75,Xiaozhong Liu 0001,Computer Science,https://www.wpi.edu/people/faculty/xliu14,,faculty_page,"areas=ai,mlmining,nlp; verified_by=official_domain"
+Worcester Polytechnic Institute,75,Yanhua Li,Computer Science,http://www.wpi.edu/~yli15,,faculty_page,"areas=ai,mlmining,vision; verified_by=official_domain"
+California Inst. of Technology,80,Aaron D. Ames,Computing + Mathematical Sciences,http://ames.caltech.edu,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+California Inst. of Technology,80,Alan H. Barr,Computing + Mathematical Sciences,http://www.eas.caltech.edu/people/2923/profile,,faculty_page,"areas=mlmining,vision; verified_by=official_domain"
+California Inst. of Technology,80,Andrew Stuart,Computing + Mathematical Sciences,http://stuart.caltech.edu,,faculty_page,areas=mlmining; verified_by=official_domain
+California Inst. of Technology,80,Anima Anandkumar,Computing + Mathematical Sciences,http://tensorlab.cms.caltech.edu/users/anima,,faculty_page,"areas=ai,mlmining,nlp,vision; verified_by=official_domain"
+California Inst. of Technology,80,Babak Hassibi,Computing + Mathematical Sciences,https://www.babak.caltech.edu,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+California Inst. of Technology,80,Eric Mazumdar,Computing + Mathematical Sciences,http://users.cms.caltech.edu/~mazumdar,,faculty_page,areas=mlmining; verified_by=official_domain
+California Inst. of Technology,80,Erik Winfree,Computing + Mathematical Sciences,http://www.dna.caltech.edu/~winfree,,faculty_page,areas=mlmining; verified_by=official_domain
+California Inst. of Technology,80,Frederick Eberhardt,Computing + Mathematical Sciences,http://www.its.caltech.edu/~fehardt,,faculty_page,areas=ai; verified_by=official_domain
+California Inst. of Technology,80,Houman Owhadi,Computing + Mathematical Sciences,http://users.cms.caltech.edu/~owhadi/index.htm,,faculty_page,areas=mlmining; verified_by=official_domain
+California Inst. of Technology,80,Joel A. Tropp,Computing + Mathematical Sciences,http://users.cms.caltech.edu/~jtropp,,faculty_page,"areas=mlmining,vision; verified_by=official_domain"
+California Inst. of Technology,80,Joel W. Burdick,Computing + Mathematical Sciences,http://robotics.caltech.edu/wiki/index.php/Robotics,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+California Inst. of Technology,80,Katherine L. Bouman,Computing + Mathematical Sciences,http://users.cms.caltech.edu/~klbouman,,faculty_page,"areas=ai,mlmining,vision; verified_by=official_domain"
+California Inst. of Technology,80,Omer Tamuz,Computing + Mathematical Sciences,http://tamuz.caltech.edu,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+California Inst. of Technology,80,Peter Schröder,Computing + Mathematical Sciences,https://users.cms.caltech.edu/~ps,,faculty_page,areas=vision; verified_by=official_domain
+California Inst. of Technology,80,Pietro Perona,Computing + Mathematical Sciences,https://www.vision.caltech.edu,,faculty_page,"areas=mlmining,vision; verified_by=official_domain"
+California Inst. of Technology,80,Richard M. Murray,Computing + Mathematical Sciences,https://www.bbe.caltech.edu/people/richard-m-murray,,faculty_page,areas=ai; verified_by=official_domain
+California Inst. of Technology,80,Soon-Jo Chung,Computing + Mathematical Sciences,http://aerospacerobotics.caltech.edu,,faculty_page,"areas=mlmining,vision; verified_by=official_domain"
+California Inst. of Technology,80,Steven H. Low,Computing + Mathematical Sciences,http://www.eas.caltech.edu/people/3109/profile,,faculty_page,areas=mlmining; verified_by=official_domain
+California Inst. of Technology,80,Tracey Ho,Computing + Mathematical Sciences,http://www.its.caltech.edu/~tho,,faculty_page,areas=mlmining; verified_by=official_domain
+California Inst. of Technology,80,Venkat Chandrasekaran,Computing + Mathematical Sciences,http://users.cms.caltech.edu/~venkatc,,faculty_page,areas=mlmining; verified_by=official_domain
+California Inst. of Technology,80,Yaser S. Abu-Mostafa,Computing + Mathematical Sciences,https://work.caltech.edu,,faculty_page,"areas=mlmining,vision; verified_by=official_domain"
+Iowa State University,80,Aduri Pavan,Department of Computer Science,http://www.cs.iastate.edu/people/pavan-aduri,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+Iowa State University,80,Ali Jannesari,Department of Computer Science,https://www.cs.iastate.edu/swapp/people/ali-jannesari,,faculty_page,"areas=mlmining,nlp,vision; verified_by=official_domain"
+Iowa State University,80,Bowen Weng,Department of Computer Science,https://www.cs.iastate.edu/people/bowen-weng-0,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+Iowa State University,80,Christopher J. Quinn,Department of Computer Science,https://www.cs.iastate.edu/people/christopher-quinn,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+Iowa State University,80,Chunsheng Xin,Department of Computer Science,https://www.cs.iastate.edu/people/sam-xin,,faculty_page,"areas=ai,vision; verified_by=official_domain"
+Iowa State University,80,Clay Stevens,Department of Computer Science,https://www.cs.iastate.edu/people/clay-stevens,,faculty_page,areas=ai; verified_by=official_domain
+Iowa State University,80,Forrest Sheng Bao,Department of Computer Science,https://www.cs.iastate.edu/people/forrest-sheng-bao,,faculty_page,"areas=ai,nlp; verified_by=official_domain"
+Iowa State University,80,Giora Slutzki,Department of Computer Science,http://www.cs.iastate.edu/~slutzki,,faculty_page,areas=ai; verified_by=official_domain
+Iowa State University,80,Guang Song,Department of Computer Science,http://www.cs.iastate.edu/people/guang-song,,faculty_page,areas=bio; verified_by=official_domain
+Iowa State University,80,Hongyang Gao,Department of Computer Science,https://faculty.sites.iastate.edu/hygao,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+Iowa State University,80,Kristin Y. Rozier,Department of Computer Science,https://www.cs.iastate.edu/kyrozier,,faculty_page,areas=ai; verified_by=official_domain
+Iowa State University,80,Lin Yan 0003,Department of Computer Science,https://www.cs.iastate.edu/people/lin-yan,,faculty_page,areas=mlmining; verified_by=official_domain
+Iowa State University,80,Mengdi Huai,Department of Computer Science,https://www.cs.iastate.edu/people/mengdi-huai,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+Iowa State University,80,Oliver Eulenstein,Department of Computer Science,http://www.cs.iastate.edu/~oeulenst,,faculty_page,areas=bio; verified_by=official_domain
+Iowa State University,80,Qi Li 0012,Department of Computer Science,https://www.cs.iastate.edu/people/qi-li,,faculty_page,"areas=ai,mlmining,nlp; verified_by=official_domain"
+Iowa State University,80,Samik Basu 0001,Department of Computer Science,http://www.cs.iastate.edu/~sbasu,,faculty_page,areas=ai; verified_by=official_domain
+Iowa State University,80,Wei Le,Department of Computer Science,http://www.cs.iastate.edu/~weile,,faculty_page,areas=mlmining; verified_by=official_domain
+Iowa State University,80,Yang Li 0183,Department of Computer Science,https://www.cs.iastate.edu/people/yang-li,,faculty_page,areas=nlp; verified_by=official_domain
+University of South Florida,80,Chandra Kambhamettu,"Bellini College of Artificial Intelligence, Cybersecurity and Computing",https://www.usf.edu/ai-cybersecurity-computing/people/faculty/chandra_kambhamettu.aspx,,faculty_page,areas=vision; verified_by=official_domain
+University of South Florida,80,Dmitry B. Goldgof,"Bellini College of Artificial Intelligence, Cybersecurity and Computing",https://www.usf.edu/ai-cybersecurity-computing/people/faculty/goldgof-dmitry.aspx,,faculty_page,areas=vision; verified_by=official_domain
+University of South Florida,80,Fengchun Qiao,"Bellini College of Artificial Intelligence, Cybersecurity and Computing",https://www.usf.edu/ai-cybersecurity-computing/people/faculty/fengchun_qiao.aspx,,faculty_page,"areas=mlmining,vision; verified_by=official_domain"
+University of South Florida,80,Gene Louis Kim,"Bellini College of Artificial Intelligence, Cybersecurity and Computing",https://cse.usf.edu/~genekim,,faculty_page,areas=nlp; verified_by=official_domain
+University of South Florida,80,John Licato,"Bellini College of Artificial Intelligence, Cybersecurity and Computing",https://cse.usf.edu/~licato,,faculty_page,"areas=ai,nlp; verified_by=official_domain"
+University of South Florida,80,John Murray-Bruce,"Bellini College of Artificial Intelligence, Cybersecurity and Computing",https://www.cse.usf.edu/~murraybruce,,faculty_page,areas=vision; verified_by=official_domain
+University of South Florida,80,Prasant Mohapatra,"Bellini College of Artificial Intelligence, Cybersecurity and Computing",https://pmlab.cse.usf.edu,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+University of South Florida,80,Rangachar Kasturi,"Bellini College of Artificial Intelligence, Cybersecurity and Computing",http://www.cse.usf.edu/~r1k,,faculty_page,areas=vision; verified_by=official_domain
+University of South Florida,80,Shaun J. Canavan,"Bellini College of Artificial Intelligence, Cybersecurity and Computing",http://www.cse.usf.edu/~scanavan,,faculty_page,areas=vision; verified_by=official_domain
+University of South Florida,80,Sriram Chellappan,"Bellini College of Artificial Intelligence, Cybersecurity and Computing",http://www.cse.usf.edu/~shri,,faculty_page,areas=nlp; verified_by=official_domain
+University of South Florida,80,Sudeep Sarkar,"Bellini College of Artificial Intelligence, Cybersecurity and Computing",http://www.cse.usf.edu/~sarkar,,faculty_page,"areas=ai,mlmining,vision; verified_by=official_domain"
+University of South Florida,80,Utkarsh Ojha,"Bellini College of Artificial Intelligence, Cybersecurity and Computing",https://www.usf.edu/ai-cybersecurity-computing/people/faculty/utkarsh_ojha.aspx,,faculty_page,"areas=mlmining,vision; verified_by=official_domain"
+University of South Florida,80,Yao Liu 0007,"Bellini College of Artificial Intelligence, Cybersecurity and Computing",http://www.cse.usf.edu/~yliu,,faculty_page,areas=mlmining; verified_by=official_domain
+University of South Florida,80,Yi Sheng 0001,"Bellini College of Artificial Intelligence, Cybersecurity and Computing",https://www.usf.edu/ai-cybersecurity-computing/people/faculty/yi_sheng.aspx,,faculty_page,areas=ai; verified_by=official_domain
+University of South Florida,80,Yu Sun 0004,"Bellini College of Artificial Intelligence, Cybersecurity and Computing",http://www.cse.usf.edu/~yusun,,faculty_page,"areas=ai,mlmining,nlp,vision; verified_by=official_domain"
+Emory University,83,Carl Yang 0001,The Department of Computer Science,http://www.cs.emory.edu/~jyang71,,faculty_page,"areas=ai,mlmining,nlp,vision; verified_by=official_domain"
+Emory University,83,Davide Fossati,The Department of Computer Science,http://www.cs.emory.edu/people/faculty/individual.php?NUM=427,,faculty_page,areas=nlp; verified_by=official_domain
+Emory University,83,Eugene Agichtein,The Department of Computer Science,https://cs.emory.edu/~eugene,,faculty_page,"areas=bio,mlmining,nlp; verified_by=official_domain"
+Emory University,83,Fei Liu 0004,The Department of Computer Science,https://www.cs.emory.edu/~fliu40,,faculty_page,"areas=ai,mlmining,nlp; verified_by=official_domain"
+Emory University,83,Jinho D. Choi,The Department of Computer Science,https://cs.emory.edu/~choi/home.html,,faculty_page,"areas=ai,nlp; verified_by=official_domain"
+Emory University,83,Kai Shu,The Department of Computer Science,https://www.cs.emory.edu/~kshu5,,faculty_page,"areas=ai,mlmining,nlp; verified_by=official_domain"
+Emory University,83,Lars Ruthotto,The Department of Computer Science,https://www.math.emory.edu/~lruthot,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+Emory University,83,Li Xiong 0001,The Department of Computer Science,https://cs.emory.edu/~lxiong,,faculty_page,"areas=ai,mlmining,nlp,vision; verified_by=official_domain"
+Emory University,83,Liang Zhao 0002,The Department of Computer Science,https://cs.emory.edu/~lzhao41,,faculty_page,"areas=ai,mlmining,nlp,vision; verified_by=official_domain"
+Emory University,83,Yana Bromberg,The Department of Computer Science,https://bromberglab.org,https://bromberglab.org,lab_page,areas=bio; verified_by=lab_page+school_name_on_page
+Emory University,83,Zhaohui S. Qin,The Department of Computer Science,https://www.sph.emory.edu/faculty/profile/index.php?FID=8697,,faculty_page,areas=bio; verified_by=official_domain
+Tulane University,83,Aron Culotta,Computer Science | Tulane University School of Science and Engineering,http://www.cs.tulane.edu/~aculotta,,faculty_page,"areas=ai,mlmining,nlp; verified_by=official_domain"
+Tulane University,83,Carola Wenk,Computer Science | Tulane University School of Science and Engineering,http://www.cs.tulane.edu/~carola,,faculty_page,areas=bio; verified_by=official_domain
+Tulane University,83,Jihun Hamm,Computer Science | Tulane University School of Science and Engineering,http://www.cs.tulane.edu/~jhamm3,,faculty_page,"areas=ai,mlmining,vision; verified_by=official_domain"
+Tulane University,83,Lu Peng 0001,Computer Science | Tulane University School of Science and Engineering,https://cs.tulane.edu/~lpeng3,,faculty_page,"areas=mlmining,vision; verified_by=official_domain"
+Tulane University,83,Nicholas Mattei,Computer Science | Tulane University School of Science and Engineering,http://www2.tulane.edu/sse/cs/faculty/nicholas-mattei.cfm,,faculty_page,"areas=ai,mlmining,nlp; verified_by=official_domain"
+Tulane University,83,Ramgopal R. Mettu,Computer Science | Tulane University School of Science and Engineering,http://www2.tulane.edu/sse/cs/faculty/ramgopal-mettu.cfm,,faculty_page,"areas=ai,bio,mlmining; verified_by=official_domain"
+Tulane University,83,Saad Hassan,Computer Science | Tulane University School of Science and Engineering,https://sse.tulane.edu/cs/faculty/hassan,,faculty_page,"areas=mlmining,vision; verified_by=official_domain"
+Tulane University,83,Zhengming Ding,Computer Science | Tulane University School of Science and Engineering,https://sse.tulane.edu/cs/faculty/Ding,,faculty_page,"areas=ai,mlmining,vision; verified_by=official_domain"
+Tulane University,83,Zizhan Zheng,Computer Science | Tulane University School of Science and Engineering,http://www2.tulane.edu/sse/cs/faculty/zizhan-zheng.cfm,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+University of Arizona,83,Alon Efrat,University of Arizona Department of Computer Science | Computer Science,http://www.cs.arizona.edu/people/alon,,faculty_page,areas=bio; verified_by=official_domain
+University of Arizona,83,Chris Gniady,University of Arizona Department of Computer Science | Computer Science,https://www.cs.arizona.edu/people/gniady,,faculty_page,areas=ai; verified_by=official_domain
+University of Arizona,83,Ellen Riloff,University of Arizona Department of Computer Science | Computer Science,https://www.cs.arizona.edu/person/ellen-riloff,,faculty_page,"areas=ai,nlp; verified_by=official_domain"
+University of Arizona,83,Jason L. Pacheco,University of Arizona Department of Computer Science | Computer Science,https://www2.cs.arizona.edu/~pachecoj,,faculty_page,"areas=mlmining,vision; verified_by=official_domain"
+University of Arizona,83,John D. Kececioglu,University of Arizona Department of Computer Science | Computer Science,https://www.cs.arizona.edu/~kece,,faculty_page,areas=bio; verified_by=official_domain
+University of Arizona,83,Lei Cao 0004,University of Arizona Department of Computer Science | Computer Science,https://www.cs.arizona.edu/person/lei-cao,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+University of Arizona,83,Sandiway Fong,University of Arizona Department of Computer Science | Computer Science,http://elmo.sbs.arizona.edu/sandiway,,faculty_page,"areas=ai,nlp; verified_by=official_domain"
+University of Arizona,83,Saumya K. Debray,University of Arizona Department of Computer Science | Computer Science,https://www.cs.arizona.edu/~debray,,faculty_page,areas=nlp; verified_by=official_domain
+University of Arizona,83,Steven Bethard,University of Arizona Department of Computer Science | Computer Science,http://bethard.faculty.arizona.edu,,faculty_page,areas=nlp; verified_by=official_domain
+Georgetown University,86,Grace Hui Yang,Department of Computer Science,http://infosense.cs.georgetown.edu/grace,,faculty_page,"areas=ai,nlp; verified_by=official_domain"
+Georgetown University,86,Justin Thaler,Department of Computer Science,http://people.cs.georgetown.edu/jthaler,,faculty_page,areas=mlmining; verified_by=official_domain
+Georgetown University,86,Kobbi Nissim,Department of Computer Science,http://people.cs.georgetown.edu/~kobbi,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+Georgetown University,86,Lisa Singh,Department of Computer Science,http://people.cs.georgetown.edu/~singh,,faculty_page,"areas=mlmining,nlp; verified_by=official_domain"
+Georgetown University,86,Marcus A. Maloof,Department of Computer Science,http://people.cs.georgetown.edu/~maloof,,faculty_page,areas=mlmining; verified_by=official_domain
+Georgetown University,86,Nazli Goharian,Department of Computer Science,http://people.cs.georgetown.edu/~nazli,,faculty_page,"areas=ai,nlp; verified_by=official_domain"
+Georgetown University,86,Ophir Frieder,Department of Computer Science,http://people.cs.georgetown.edu/~ophir,,faculty_page,areas=ai; verified_by=official_domain
+Washington State University,86,Anantharaman Kalyanaraman,School of Electrical Engineering & Computer Science,http://www.eecs.wsu.edu/~ananth,,faculty_page,areas=ai; verified_by=official_domain
+Washington State University,86,Bryan David Minor,School of Electrical Engineering & Computer Science,https://school.eecs.wsu.edu/people/faculty/bryan-minor,,faculty_page,areas=mlmining; verified_by=official_domain
+Washington State University,86,Dae Hyun Kim 0004,School of Electrical Engineering & Computer Science,https://school.eecs.wsu.edu/people/faculty/dae-hyun-kim,,faculty_page,areas=ai; verified_by=official_domain
+Washington State University,86,Diane J. Cook,School of Electrical Engineering & Computer Science,http://www.eecs.wsu.edu/~cook,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+Washington State University,86,Janardhan Rao Doppa,School of Electrical Engineering & Computer Science,http://eecs.wsu.edu/~jana,,faculty_page,"areas=ai,mlmining,nlp,vision; verified_by=official_domain"
+Washington State University,86,Lawrence B. Holder,School of Electrical Engineering & Computer Science,http://www.eecs.wsu.edu/~holder,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+Washington State University,86,Trong Nghia Hoang,School of Electrical Engineering & Computer Science,https://school.eecs.wsu.edu/faculty/profile/?nid=trongnghia.hoang,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+Washington State University,86,Xuanyu Cao,School of Electrical Engineering & Computer Science,https://labs.wsu.edu/xuanyu,,faculty_page,areas=mlmining; verified_by=official_domain
+Wayne State University,86,Jing Hua 0001,Wayne State University,http://www.cs.wayne.edu/~jinghua,,faculty_page,"areas=ai,vision; verified_by=official_domain"
+Wayne State University,86,Marco Brocanelli,Wayne State University,http://brok.eng.wayne.edu,,faculty_page,areas=ai; verified_by=official_domain
+Wayne State University,86,Ming Dong 0001,Wayne State University,http://www.cs.wayne.edu/~mdong,,faculty_page,areas=vision; verified_by=official_domain
+Wayne State University,86,Prashant Khanduri,Wayne State University,https://engineering.wayne.edu/profile/hm8920,,faculty_page,"areas=mlmining,vision; verified_by=official_domain"
+Wayne State University,86,RhongHo Jang,Wayne State University,https://engineering.wayne.edu/profile/hf8512,,faculty_page,areas=mlmining; verified_by=official_domain
+Wayne State University,86,Zheng Dong 0002,Wayne State University,http://zheng.eng.wayne.edu,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+Wayne State University,86,Zichun Zhong,Wayne State University,http://www.cs.wayne.edu/zzhong,,faculty_page,"areas=ai,vision; verified_by=official_domain"
+CUNY,89,Alla Rozovskaya,CUNY,https://www.cs.qc.cuny.edu/rozovskaya.html,,faculty_page,"areas=ai,mlmining,nlp; verified_by=official_domain"
+CUNY,89,Anita Raja,CUNY,https://anraja.commons.gc.cuny.edu,,faculty_page,areas=ai; verified_by=official_domain
+CUNY,89,Bon K. Sy,CUNY,https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Bon-K-Sy,,faculty_page,areas=ai; verified_by=official_domain
+CUNY,89,Brian Murphy,CUNY,http://www.baruch.cuny.edu/wsas/academics/history/bmurphy.htm,,faculty_page,areas=nlp; verified_by=official_domain
+CUNY,89,Changhe Yuan,CUNY,http://url.cs.qc.cuny.edu,,faculty_page,areas=ai; verified_by=official_domain
+CUNY,89,Chia-Ling Tsai,CUNY,https://www.cs.qc.cuny.edu/tsai.html,,faculty_page,areas=vision; verified_by=official_domain
+CUNY,89,Danyang Zhang,CUNY,https://www.york.cuny.edu/portal_college/dzhang,,faculty_page,"areas=mlmining,nlp,vision; verified_by=official_domain"
+CUNY,89,Elena Filatova,CUNY,https://www.citytech.cuny.edu/faculty/EFilatova,,faculty_page,areas=nlp; verified_by=official_domain
+CUNY,89,George Wolberg,CUNY,http://www-cs.ccny.cuny.edu/~wolberg,,faculty_page,areas=vision; verified_by=official_domain
+CUNY,89,Ioannis Stamos,CUNY,http://www.cs.hunter.cuny.edu/~ioannis,,faculty_page,areas=vision; verified_by=official_domain
+CUNY,89,Jie Wei,CUNY,https://www.ccny.cuny.edu/profiles/jie-wei,,faculty_page,"areas=mlmining,vision; verified_by=official_domain"
+CUNY,89,Jun Li 0017,CUNY,https://phantom.cs.qc.cuny.edu/li,,faculty_page,areas=mlmining; verified_by=official_domain
+CUNY,89,Katherine St. John,CUNY,http://comet.lehman.cuny.edu/stjohn,,faculty_page,areas=bio; verified_by=official_domain
+CUNY,89,Lei Xie 0006,CUNY,http://compsci.hunter.cuny.edu/~leixie,,faculty_page,"areas=ai,bio,mlmining; verified_by=official_domain"
+CUNY,89,Mayank Goswami 0001,CUNY,https://boole.cs.qc.cuny.edu/mgoswami,,faculty_page,"areas=mlmining,vision; verified_by=official_domain"
+CUNY,89,Michael D. Grossberg,CUNY,https://www.ccny.cuny.edu/profiles/michael-grossberg,,faculty_page,areas=vision; verified_by=official_domain
+CUNY,89,Michael E. Kress,CUNY,http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Michael-E-Kress,,faculty_page,areas=mlmining; verified_by=official_domain
+CUNY,89,Michael I. Mandel,CUNY,http://www.brooklyn.cuny.edu/web/academics/faculty/faculty_profile.jsp?faculty=1264,,faculty_page,areas=mlmining; verified_by=official_domain
+CUNY,89,Neng-Fa Zhou,CUNY,http://www.sci.brooklyn.cuny.edu/~zhou,,faculty_page,areas=ai; verified_by=official_domain
+CUNY,89,Ping Ji 0002,CUNY,http://jjcweb.jjay.cuny.edu/pji,,faculty_page,areas=mlmining; verified_by=official_domain
+CUNY,89,Rivka Levitan,CUNY,http://www.sci.brooklyn.cuny.edu/~levitan,,faculty_page,areas=nlp; verified_by=official_domain
+CUNY,89,Robert M. Haralick,CUNY,http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Robert-M-Haralick,,faculty_page,"areas=ai,vision; verified_by=official_domain"
+CUNY,89,Rohit Parikh,CUNY,http://www.sci.brooklyn.cuny.edu/cis/parikh,,faculty_page,areas=ai; verified_by=official_domain
+CUNY,89,Saptarashmi Bandyopadhyay,CUNY,https://www.gc.cuny.edu/people/saptarashmi-bandyopadhyay,,faculty_page,"areas=ai,mlmining,nlp; verified_by=official_domain"
+CUNY,89,Sarah Zelikovitz,CUNY,http://www.cs.csi.cuny.edu/~zelikovi,,faculty_page,areas=mlmining; verified_by=official_domain
+CUNY,89,Sos S. Agaian,CUNY,https://www.csi.cuny.edu/campus-directory/sos-agaian,,faculty_page,areas=mlmining; verified_by=official_domain
+CUNY,89,Subash Shankar,CUNY,http://www.cs.hunter.cuny.edu/~sshankar,,faculty_page,areas=ai; verified_by=official_domain
+CUNY,89,Theodore Brown,CUNY,https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Theodore-Brown,,faculty_page,areas=mlmining; verified_by=official_domain
+CUNY,89,William Gregory Sakas,CUNY,http://www.cs.hunter.cuny.edu/~sakas,,faculty_page,areas=nlp; verified_by=official_domain
+CUNY,89,Xiangdong Li,CUNY,http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science/Faculty-Bios/Xiangdong-Li,,faculty_page,areas=vision; verified_by=official_domain
+CUNY,89,Xiaowen Zhang,CUNY,http://www.csi.cuny.edu/faculty/ZHANG_XIAOWEN.html,,faculty_page,"areas=mlmining,vision; verified_by=official_domain"
+CUNY,89,Yingli Tian,CUNY,http://www-ee.ccny.cuny.edu/wwwn/yltian/home.html,,faculty_page,"areas=mlmining,vision; verified_by=official_domain"
+CUNY,89,Zhigang Zhu 0001,CUNY,http://www-cs.ccny.cuny.edu/~zhu,,faculty_page,areas=vision; verified_by=official_domain
+Drexel University,89,Ali Shokoufandeh,Computer Science Department | Drexel CCI,http://drexel.edu/cci/contact/Faculty/Shokoufandeh-Ali,,faculty_page,areas=vision; verified_by=official_domain
+Drexel University,89,Christopher W. Geib,Computer Science Department | Drexel CCI,http://drexel.edu/cci/contact/Faculty/Geib-Christopher,,faculty_page,areas=ai; verified_by=official_domain
+Drexel University,89,Feng Liu 0037,Computer Science Department | Drexel CCI,https://drexel.edu/cci/about/directory/L/Liu-Feng,,faculty_page,"areas=mlmining,vision; verified_by=official_domain"
+Drexel University,89,Santiago Ontañón,Computer Science Department | Drexel CCI,http://drexel.edu/cci/contact/Faculty/Ontanon-Santiago,,faculty_page,"areas=ai,mlmining,nlp; verified_by=official_domain"
+Drexel University,89,Vasilis Gkatzelis,Computer Science Department | Drexel CCI,https://www.cs.drexel.edu/~gkatz,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+Florida International University,89,Christian Poellabauer,Knight Foundation School of Computing and Information Sciences,https://users.cs.fiu.edu/~cpoellab,,faculty_page,"areas=ai,nlp,vision; verified_by=official_domain"
+Florida International University,89,Dongsheng Luo,Knight Foundation School of Computing and Information Sciences,https://users.cs.fiu.edu/~dluo,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+Florida International University,89,Giri Narasimhan,Knight Foundation School of Computing and Information Sciences,http://www.cs.fiu.edu/~giri,,faculty_page,"areas=ai,bio,vision; verified_by=official_domain"
+Florida International University,89,Jason Liu,Knight Foundation School of Computing and Information Sciences,http://www.cis.fiu.edu/~liux,,faculty_page,"areas=ai,mlmining,nlp; verified_by=official_domain"
+Florida International University,89,M. Mondal Ananda,Knight Foundation School of Computing and Information Sciences,https://www.cis.fiu.edu/faculty-staff/mondal-ananda,,faculty_page,areas=mlmining; verified_by=official_domain
+Florida International University,89,Mark A. Finlayson,Knight Foundation School of Computing and Information Sciences,http://cs.fiu.edu/~markaf,,faculty_page,areas=nlp; verified_by=official_domain
+Florida International University,89,Mo Sha 0001,Knight Foundation School of Computing and Information Sciences,https://users.cs.fiu.edu/~msha,,faculty_page,areas=mlmining; verified_by=official_domain
+Florida International University,89,S. Sitharama Iyengar,Knight Foundation School of Computing and Information Sciences,http://users.cis.fiu.edu/~iyengar,,faculty_page,"areas=ai,vision; verified_by=official_domain"
+Florida International University,89,Shu-Ching Chen,Knight Foundation School of Computing and Information Sciences,https://www.cs.fiu.edu/~chens,,faculty_page,"areas=mlmining,vision; verified_by=official_domain"
+Florida International University,89,Wei Zeng 0002,Knight Foundation School of Computing and Information Sciences,http://cis.fiu.edu/~wzeng,,faculty_page,areas=vision; verified_by=official_domain
+Florida International University,89,Wenbin Zhang 0002,Knight Foundation School of Computing and Information Sciences,https://users.cs.fiu.edu/~wbzhang,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+Florida International University,89,Xuyu Wang,Knight Foundation School of Computing and Information Sciences,https://users.cs.fiu.edu/~xuywang,,faculty_page,areas=mlmining; verified_by=official_domain
+Rensselaer Polytechnic Institute,89,Alex Gittens,Computer Science,http://www.cs.rpi.edu/~gittea,,faculty_page,"areas=ai,mlmining,nlp,vision; verified_by=official_domain"
+Rensselaer Polytechnic Institute,89,Ana L. Milanova,Computer Science,http://www.cs.rpi.edu/~milanova,,faculty_page,areas=mlmining; verified_by=official_domain
+Rensselaer Polytechnic Institute,89,Boleslaw K. Szymanski,Computer Science,http://www.cs.rpi.edu/~szymansk,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+Rensselaer Polytechnic Institute,89,Charles V. Stewart,Computer Science,http://www.cs.rpi.edu/~stewart,,faculty_page,"areas=mlmining,vision; verified_by=official_domain"
+Rensselaer Polytechnic Institute,89,Chen Wang 0027,Computer Science,https://faculty.rpi.edu/chen-wang,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+Rensselaer Polytechnic Institute,89,Christopher Bystroff,Computer Science,http://www.bioinfo.rpi.edu/bystrc,,faculty_page,areas=bio; verified_by=official_domain
+Rensselaer Polytechnic Institute,89,Christopher D. Carothers,Computer Science,http://www.cs.rpi.edu/~chrisc,,faculty_page,areas=mlmining; verified_by=official_domain
+Rensselaer Polytechnic Institute,89,Elliot Anshelevich,Computer Science,http://www.cs.rpi.edu/~eanshel,,faculty_page,areas=ai; verified_by=official_domain
+Rensselaer Polytechnic Institute,89,James A. Hendler,Computer Science,http://www.cs.rpi.edu/~hendler,,faculty_page,"areas=ai,mlmining,nlp; verified_by=official_domain"
+Rensselaer Polytechnic Institute,89,Jianxi Gao,Computer Science,https://faculty.rpi.edu/jianxi-gao,,faculty_page,"areas=ai,mlmining,nlp; verified_by=official_domain"
+Rensselaer Polytechnic Institute,89,Malik Magdon-Ismail,Computer Science,http://www.cs.rpi.edu/~magdon,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+Rensselaer Polytechnic Institute,89,Mohammed J. Zaki,Computer Science,http://www.cs.rpi.edu/~zaki,,faculty_page,"areas=ai,bio,mlmining,nlp; verified_by=official_domain"
+Rensselaer Polytechnic Institute,89,Selmer Bringsjord,Computer Science,http://www.cogsci.rpi.edu/pl/faculty-staff-cogsci/selmer-bringsjord,,faculty_page,areas=ai; verified_by=official_domain
+Rensselaer Polytechnic Institute,89,Sergei Nirenburg,Computer Science,http://www.cogsci.rpi.edu/pl/faculty-staff-cogsci/nirenburg,,faculty_page,"areas=ai,nlp; verified_by=official_domain"
+Rensselaer Polytechnic Institute,89,Sibel Adali,Computer Science,http://www.cs.rpi.edu/~sibel/SibelAdali/Sibel_Adali.html,,faculty_page,areas=ai; verified_by=official_domain
+Rensselaer Polytechnic Institute,89,Stacy Patterson,Computer Science,http://www.cs.rpi.edu/~pattes3,,faculty_page,areas=mlmining; verified_by=official_domain
+TTI Chicago,89,David A. McAllester,TTI Chicago,http://ttic.uchicago.edu/~dmcallester,,faculty_page,"areas=ai,mlmining,nlp,vision; verified_by=official_domain"
+TTI Chicago,89,David McAllester,TTI Chicago,http://ttic.uchicago.edu/~dmcallester,,faculty_page,"areas=mlmining,vision; verified_by=official_domain"
+TTI Chicago,89,Gregory Shakhnarovich,TTI Chicago,http://ttic.uchicago.edu/~gregory,,faculty_page,"areas=mlmining,nlp,vision; verified_by=official_domain"
+TTI Chicago,89,Jinbo Xu,TTI Chicago,http://ttic.uchicago.edu/~jinbo,,faculty_page,"areas=bio,mlmining; verified_by=official_domain"
+TTI Chicago,89,Karen Livescu,TTI Chicago,http://ttic.uchicago.edu/~klivescu,,faculty_page,"areas=ai,mlmining,nlp,vision; verified_by=official_domain"
+TTI Chicago,89,Matthew R. Walter,TTI Chicago,http://ttic.uchicago.edu/~mwalter,,faculty_page,"areas=ai,mlmining,nlp,vision; verified_by=official_domain"
+TTI Chicago,89,Nathan Srebro,TTI Chicago,http://ttic.uchicago.edu/~nati,,faculty_page,areas=mlmining; verified_by=official_domain
+TTI Chicago,89,Yury Makarychev,TTI Chicago,http://ttic.uchicago.edu/~yury,,faculty_page,areas=mlmining; verified_by=official_domain
+Temple University,89,Chiu C. Tan 0001,Department of Computer & Information Sciences | College of Science and Technology,https://cis.temple.edu/~cctan,,faculty_page,areas=ai; verified_by=official_domain
+Temple University,89,Eduard C. Dragut,Department of Computer & Information Sciences | College of Science and Technology,https://cis.temple.edu/~edragut,,faculty_page,"areas=ai,mlmining,nlp; verified_by=official_domain"
+Temple University,89,Hongchang Gao,Department of Computer & Information Sciences | College of Science and Technology,https://www.cst.temple.edu/~tuo14379,,faculty_page,"areas=ai,mlmining,vision; verified_by=official_domain"
+Temple University,89,Jie Wu 0001,Department of Computer & Information Sciences | College of Science and Technology,https://cis.temple.edu/~wu,,faculty_page,"areas=ai,mlmining,nlp; verified_by=official_domain"
+Temple University,89,Kai Zhang 0001,Department of Computer & Information Sciences | College of Science and Technology,https://cis.temple.edu/user/635,,faculty_page,"areas=ai,bio,mlmining,vision; verified_by=official_domain"
+Temple University,89,Longin Jan Latecki,Department of Computer & Information Sciences | College of Science and Technology,https://cis.temple.edu/~latecki,,faculty_page,"areas=ai,mlmining,nlp,vision; verified_by=official_domain"
+Temple University,89,Richard Beigel,Department of Computer & Information Sciences | College of Science and Technology,https://cis.temple.edu/~beigel,,faculty_page,"areas=ai,bio; verified_by=official_domain"
+Temple University,89,Richard Souvenir,Department of Computer & Information Sciences | College of Science and Technology,https://cis.temple.edu/~souvenir,,faculty_page,"areas=ai,mlmining,vision; verified_by=official_domain"
+Temple University,89,Slobodan Vucetic,Department of Computer & Information Sciences | College of Science and Technology,http://www.dabi.temple.edu/~vucetic,,faculty_page,"areas=ai,mlmining,nlp; verified_by=official_domain"
+Temple University,89,Xiaojiang Du,Department of Computer & Information Sciences | College of Science and Technology,https://cis.temple.edu/~xjdu,,faculty_page,areas=mlmining; verified_by=official_domain
+Temple University,89,Xinghua Shi,Department of Computer & Information Sciences | College of Science and Technology,https://cis.temple.edu/~mindyshi,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+Temple University,89,Zoran Obradovic,Department of Computer & Information Sciences | College of Science and Technology,http://www.dabi.temple.edu/~zoran,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+Univ. of Maryland - Baltimore County,89,Adam W. Bargteil,Department of Computer Science and Electrical Engineering – UMBC,http://www.csee.umbc.edu/~adamb,,faculty_page,areas=vision; verified_by=official_domain
+Univ. of Maryland - Baltimore County,89,Anupam Joshi,Department of Computer Science and Electrical Engineering – UMBC,http://www.csee.umbc.edu/~joshi,,faculty_page,areas=ai; verified_by=official_domain
+Univ. of Maryland - Baltimore County,89,Charles K. Nicholas,Department of Computer Science and Electrical Engineering – UMBC,http://www.csee.umbc.edu/~nicholas/charles_nicholas.html,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+Univ. of Maryland - Baltimore County,89,Cynthia Matuszek,Department of Computer Science and Electrical Engineering – UMBC,http://www.csee.umbc.edu/~cmat,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+Univ. of Maryland - Baltimore County,89,Don Engel,Department of Computer Science and Electrical Engineering – UMBC,https://www.csee.umbc.edu/people/faculty/don-engel,,faculty_page,areas=nlp; verified_by=official_domain
+Univ. of Maryland - Baltimore County,89,Francis Ferraro,Department of Computer Science and Electrical Engineering – UMBC,https://www.csee.umbc.edu/~ferraro,,faculty_page,"areas=ai,mlmining,nlp; verified_by=official_domain"
+Univ. of Maryland - Baltimore County,89,James R. Foulds,Department of Computer Science and Electrical Engineering – UMBC,https://jfoulds.informationsystems.umbc.edu,,faculty_page,"areas=mlmining,nlp; verified_by=official_domain"
+Univ. of Maryland - Baltimore County,89,Keke Chen,Department of Computer Science and Electrical Engineering – UMBC,https://www.csee.umbc.edu/keke-chen,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+Univ. of Maryland - Baltimore County,89,Nirmalya Roy,Department of Computer Science and Electrical Engineering – UMBC,https://mpsc.umbc.edu/nroy,,faculty_page,areas=mlmining; verified_by=official_domain
+Univ. of Maryland - Baltimore County,89,Penny Rheingans,Department of Computer Science and Electrical Engineering – UMBC,http://www.csee.umbc.edu/~rheingan,,faculty_page,areas=ai; verified_by=official_domain
+Univ. of Maryland - Baltimore County,89,Rajasekhar Anguluri,Department of Computer Science and Electrical Engineering – UMBC,https://www.csee.umbc.edu/rajasekhar-anguluri,,faculty_page,areas=mlmining; verified_by=official_domain
+Univ. of Maryland - Baltimore County,89,Sanjay Purushotham,Department of Computer Science and Electrical Engineering – UMBC,https://sanjayp.is.umbc.edu,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+Univ. of Maryland - Baltimore County,89,Shimei Pan,Department of Computer Science and Electrical Engineering – UMBC,https://nlp-lab.umbc.edu/home/shimei,,faculty_page,"areas=ai,mlmining,nlp; verified_by=official_domain"
+Univ. of Maryland - Baltimore County,89,Tim Finin,Department of Computer Science and Electrical Engineering – UMBC,http://umbc.edu/~finin,,faculty_page,areas=ai; verified_by=official_domain
+Univ. of Maryland - Baltimore County,89,Tim Oates 0001,Department of Computer Science and Electrical Engineering – UMBC,http://www.csee.umbc.edu/people/faculty/tim-oates,,faculty_page,"areas=ai,mlmining,nlp; verified_by=official_domain"
+Univ. of Maryland - Baltimore County,89,Ting-Zhu Huang,Department of Computer Science and Electrical Engineering – UMBC,http://www.csee.umbc.edu/~zt,,faculty_page,"areas=ai,mlmining,nlp,vision; verified_by=official_domain"
+Univ. of Maryland - Baltimore County,89,Vandana Pursnani Janeja,Department of Computer Science and Electrical Engineering – UMBC,https://userpages.umbc.edu/~vjaneja,,faculty_page,areas=mlmining; verified_by=official_domain
+University of Tennessee,89,Amir Sadovnik,University of Tennessee,http://uvu.eecs.utk.edu,,faculty_page,areas=vision; verified_by=official_domain
+University of Tennessee,89,Donatello Materassi,University of Tennessee,http://www.eecs.utk.edu/people/faculty/dmateras,,faculty_page,areas=mlmining; verified_by=official_domain
+University of Tennessee,89,Dongsheng Ding,University of Tennessee,https://eecs.utk.edu/people/dongsheng-ding,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+University of Tennessee,89,Fnu Suya,University of Tennessee,https://eecs.utk.edu/people/fnu-suya,,faculty_page,"areas=mlmining,vision; verified_by=official_domain"
+University of Tennessee,89,Hairong Qi 0001,University of Tennessee,https://eecs.utk.edu/people/hairong-qi,,faculty_page,"areas=ai,mlmining,vision; verified_by=official_domain"
+University of Tennessee,89,Jinyuan Sun,University of Tennessee,http://web.eecs.utk.edu/~jysun,,faculty_page,areas=vision; verified_by=official_domain
+University of Tennessee,89,Lynne E. Parker,University of Tennessee,http://web.eecs.utk.edu/~leparker,,faculty_page,areas=vision; verified_by=official_domain
+University of Tennessee,89,Michael W. Berry,University of Tennessee,http://web.eecs.utk.edu/~mberry,,faculty_page,areas=bio; verified_by=official_domain
+University of Tennessee,89,Mohamed Akrout,University of Tennessee,https://eecs.utk.edu/people/mohamed-akrout,,faculty_page,areas=mlmining; verified_by=official_domain
+University of Tennessee,89,Mongi A. Abidi,University of Tennessee,http://www.eecs.utk.edu/people/faculty/abidi,,faculty_page,areas=vision; verified_by=official_domain
+University of Tennessee,89,Xiongye Xiao,University of Tennessee,https://eecs.utk.edu/people/xiongye-xiao,,faculty_page,areas=mlmining; verified_by=official_domain
+Augusta University,97,Bogdan S. Chlebus,School of Computer and Cyber Sciences,https://www.augusta.edu/faculty/directory/view.php?id=BCHLEBUS,,faculty_page,areas=ai; verified_by=official_domain
+Augusta University,97,Dariusz R. Kowalski,School of Computer and Cyber Sciences,https://www.augusta.edu/faculty/directory/view.php?id=DKOWALSKI,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+Augusta University,97,Meikang Qiu,School of Computer and Cyber Sciences,https://www.augusta.edu/faculty/directory/view.php?id=MQIU,,faculty_page,"areas=ai,mlmining,vision; verified_by=official_domain"
+Augusta University,97,Wei Zhang 0090,School of Computer and Cyber Sciences,https://www.augusta.edu/faculty/directory/view.php?id=WZHANG1,,faculty_page,"areas=mlmining,nlp; verified_by=official_domain"
+Colorado State University,97,Asa Ben-Hur,Department of Computer Science | CSU – Department of Computer Science at Colorado State University,http://www.cs.colostate.edu/~asa,,faculty_page,"areas=bio,mlmining; verified_by=official_domain"
+Colorado State University,97,Bruce A. Draper,Department of Computer Science | CSU – Department of Computer Science at Colorado State University,http://www.cs.colostate.edu/~draper,,faculty_page,"areas=mlmining,vision; verified_by=official_domain"
+Colorado State University,97,Charles W. Anderson,Department of Computer Science | CSU – Department of Computer Science at Colorado State University,http://www.cs.colostate.edu/~anderson,,faculty_page,areas=mlmining; verified_by=official_domain
+Colorado State University,97,Indrakshi Ray,Department of Computer Science | CSU – Department of Computer Science at Colorado State University,http://www.cs.colostate.edu/~iray,,faculty_page,areas=mlmining; verified_by=official_domain
+Colorado State University,97,J. Ross Beveridge,Department of Computer Science | CSU – Department of Computer Science at Colorado State University,http://www.cs.colostate.edu/~ross,,faculty_page,"areas=ai,vision; verified_by=official_domain"
+Colorado State University,97,L. Darrell Whitley,Department of Computer Science | CSU – Department of Computer Science at Colorado State University,http://www.cs.colostate.edu/~whitley,,faculty_page,areas=ai; verified_by=official_domain
+Colorado State University,97,Michael Kirby,Department of Computer Science | CSU – Department of Computer Science at Colorado State University,https://www.math.colostate.edu/~kirby,,faculty_page,areas=vision; verified_by=official_domain
+George Washington University,97,H. Howie Huang,Department of Computer Science | School of Engineering & Applied Science | The George Washington University,https://www2.seas.gwu.edu/~howie,,faculty_page,"areas=ai,nlp; verified_by=official_domain"
+George Washington University,97,Rebecca Hwa,Department of Computer Science | School of Engineering & Applied Science | The George Washington University,https://cs.engineering.gwu.edu/rebecca-hwa,,faculty_page,"areas=ai,mlmining,nlp,vision; verified_by=official_domain"
+George Washington University,97,Robert Pless,Department of Computer Science | School of Engineering & Applied Science | The George Washington University,https://www.cs.seas.gwu.edu/robert-pless,,faculty_page,"areas=ai,mlmining,vision; verified_by=official_domain"
+George Washington University,97,Xiuzhen Cheng 0001,Department of Computer Science | School of Engineering & Applied Science | The George Washington University,https://www.seas.gwu.edu/~cheng,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+Illinois Institute of Technology,97,Gady Agam,Computer Science,https://science.iit.edu/people/faculty/gady-agam,,faculty_page,"areas=ai,vision; verified_by=official_domain"
+Illinois Institute of Technology,97,Mustafa Bilgic 0001,Computer Science,https://science.iit.edu/people/faculty/mustafa-bilgic,,faculty_page,"areas=ai,mlmining,nlp,vision; verified_by=official_domain"
+Illinois Institute of Technology,97,Yue Dai 0005,Computer Science,https://www.iit.edu/directory/people/yue-dai,,faculty_page,areas=mlmining; verified_by=official_domain
+Illinois Institute of Technology,97,Yutong Wang 0002,Computer Science,https://www.iit.edu/directory/people/yutong-wang,,faculty_page,areas=mlmining; verified_by=official_domain
+Lehigh University,97,Brian D. Davison 0001,Computer Science & Engineering | P.C. Rossin College of Engineering & Applied Science,http://www.cse.lehigh.edu/~brian,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+Lehigh University,97,Brian Y. Chen,Computer Science & Engineering | P.C. Rossin College of Engineering & Applied Science,http://www.cse.lehigh.edu/~chen,,faculty_page,areas=bio; verified_by=official_domain
+Lehigh University,97,Hector Muñoz-Avila,Computer Science & Engineering | P.C. Rossin College of Engineering & Applied Science,http://www.cse.lehigh.edu/~munoz,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+Lehigh University,97,Jeff Heflin,Computer Science & Engineering | P.C. Rossin College of Engineering & Applied Science,http://www.cse.lehigh.edu/~heflin,,faculty_page,areas=ai; verified_by=official_domain
+Lehigh University,97,Lifang He 0001,Computer Science & Engineering | P.C. Rossin College of Engineering & Applied Science,https://engineering.lehigh.edu/faculty/lifang-he,,faculty_page,"areas=ai,mlmining,nlp,vision; verified_by=official_domain"
+Lehigh University,97,Mooi Choo Chuah,Computer Science & Engineering | P.C. Rossin College of Engineering & Applied Science,http://www.cse.lehigh.edu/~chuah,,faculty_page,areas=vision; verified_by=official_domain
+Lehigh University,97,Sihong Xie,Computer Science & Engineering | P.C. Rossin College of Engineering & Applied Science,http://www.cse.lehigh.edu/~sxie,,faculty_page,"areas=ai,mlmining,nlp; verified_by=official_domain"
+University of Houston,97,Albert Mo Kim Cheng,University of Houston,http://www2.cs.uh.edu/~acheng/acheng.html,,faculty_page,"areas=ai,nlp; verified_by=official_domain"
+University of Houston,97,Arjun Mukherjee,University of Houston,http://www2.cs.uh.edu/~arjun,,faculty_page,"areas=ai,mlmining,nlp; verified_by=official_domain"
+University of Houston,97,Badrinath Roysam,University of Houston,http://www.ee.uh.edu/faculty/roysam,,faculty_page,"areas=bio,vision; verified_by=official_domain"
+University of Houston,97,Carlos Ordonez 0001,University of Houston,http://www2.cs.uh.edu/~ordonez,,faculty_page,areas=mlmining; verified_by=official_domain
+University of Houston,97,Feng Yan 0001,University of Houston,http://www2.cs.uh.edu/~fyan,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+University of Houston,97,Gopal Pandurangan,University of Houston,http://www.uh.edu/nsm/computer-science/news-events/stories/2014/0711-pandurangan.php,,faculty_page,"areas=ai,bio; verified_by=official_domain"
+University of Houston,97,Ioannis A. Kakadiaris,University of Houston,http://cbl.uh.edu/pages/aboutcbl/dr_kakadiaris_biography,,faculty_page,areas=vision; verified_by=official_domain
+University of Houston,97,Ioannis T. Pavlidis,University of Houston,http://www.cpl.uh.edu/people/ioannis_pavlidis,,faculty_page,areas=vision; verified_by=official_domain
+University of Houston,97,Rakesh M. Verma,University of Houston,http://www2.cs.uh.edu/~rmverma,,faculty_page,areas=ai; verified_by=official_domain
+University of Houston,97,Ricardo Vilalta,University of Houston,http://www2.cs.uh.edu/~vilalta,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+University of Houston,97,Stephen Huang,University of Houston,http://www2.cs.uh.edu/shuang,,faculty_page,areas=vision; verified_by=official_domain
+University of Houston,97,Weidong Shi,University of Houston,http://www.uh.edu/nsm/computer-science/people/spotlight/spotlights/2014/larry-shi.php,,faculty_page,"areas=ai,nlp; verified_by=official_domain"
+University of Houston,97,Zhigang Deng 0001,University of Houston,http://graphics.cs.uh.edu/zdeng,,faculty_page,"areas=ai,vision; verified_by=official_domain"
+University of Iowa,97,Alberto M. Segre,Computer Science | College of Liberal Arts and Sciences | The University of Iowa,https://www.cs.uiowa.edu/people/alberto-maria-segre,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+University of Iowa,97,Bijaya Adhikari,Computer Science | College of Liberal Arts and Sciences | The University of Iowa,https://cs.uiowa.edu/people/bijaya-adhikari,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+University of Iowa,97,Hantao Zhang 0001,Computer Science | College of Liberal Arts and Sciences | The University of Iowa,https://www.cs.uiowa.edu/~hzhang,,faculty_page,areas=ai; verified_by=official_domain
+University of Iowa,97,Joe K. Kearney,Computer Science | College of Liberal Arts and Sciences | The University of Iowa,http://homepage.cs.uiowa.edu/~kearney,,faculty_page,areas=vision; verified_by=official_domain
+University of Iowa,97,Mehrdad Moharrami,Computer Science | College of Liberal Arts and Sciences | The University of Iowa,https://cs.uiowa.edu/people/mehrdad-moharrami,,faculty_page,areas=mlmining; verified_by=official_domain
+University of Iowa,97,Muchao Ye,Computer Science | College of Liberal Arts and Sciences | The University of Iowa,https://cs.uiowa.edu/people/muchao-ye,,faculty_page,"areas=ai,mlmining,nlp,vision; verified_by=official_domain"
+University of Iowa,97,Padmini Srinivasan,Computer Science | College of Liberal Arts and Sciences | The University of Iowa,https://cs.uiowa.edu/people/padmini-srinivasan,,faculty_page,"areas=bio,mlmining,nlp; verified_by=official_domain"
+University of Iowa,97,Peng Jiang 0004,Computer Science | College of Liberal Arts and Sciences | The University of Iowa,https://homepage.divms.uiowa.edu/~penjiang,,faculty_page,areas=mlmining; verified_by=official_domain
+University of Iowa,97,Rishab Nithyanand,Computer Science | College of Liberal Arts and Sciences | The University of Iowa,https://cs.uiowa.edu/people/rishab-nithyanand,,faculty_page,areas=nlp; verified_by=official_domain
+University of Iowa,97,Sourya Roy,Computer Science | College of Liberal Arts and Sciences | The University of Iowa,https://cs.uiowa.edu/people/sourya-roy,,faculty_page,areas=vision; verified_by=official_domain
+University of Iowa,97,Sriram V. Pemmaraju,Computer Science | College of Liberal Arts and Sciences | The University of Iowa,https://www.cs.uiowa.edu/~sriram,,faculty_page,areas=ai; verified_by=official_domain
+University of Iowa,97,Weiran Wang,Computer Science | College of Liberal Arts and Sciences | The University of Iowa,https://cs.uiowa.edu/people/weiran-wang,,faculty_page,"areas=ai,mlmining,nlp,vision; verified_by=official_domain"
+University of Massachusetts Lowell,97,Anna Rumshisky,Miner School of Computer and Information Sciences | Kennedy College of Sciences | UMass Lowell,http://www.cs.uml.edu/~arum,,faculty_page,"areas=ai,mlmining,nlp; verified_by=official_domain"
+University of Massachusetts Lowell,97,Benyuan Liu,Miner School of Computer and Information Sciences | Kennedy College of Sciences | UMass Lowell,http://www.cs.uml.edu/~bliu,,faculty_page,areas=ai; verified_by=official_domain
+University of Massachusetts Lowell,97,Jesse M. Heines,Miner School of Computer and Information Sciences | Kennedy College of Sciences | UMass Lowell,https://www.uml.edu/Research/IVPR/faculty/Heines_Jesse%20M.aspx,,faculty_page,areas=nlp; verified_by=official_domain
+University of Massachusetts Lowell,97,Mohammad Arif Ul Alam,Miner School of Computer and Information Sciences | Kennedy College of Sciences | UMass Lowell,http://faculty.uml.edu/~alam,,faculty_page,areas=ai; verified_by=official_domain
+University of Massachusetts Lowell,97,Tingjian Ge,Miner School of Computer and Information Sciences | Kennedy College of Sciences | UMass Lowell,http://www.cs.uml.edu/~ge,,faculty_page,areas=mlmining; verified_by=official_domain
+University of Massachusetts Lowell,97,Yu Cao 0002,Miner School of Computer and Information Sciences | Kennedy College of Sciences | UMass Lowell,https://www.uml.edu/Sciences/computer-science/faculty/Cao-Yu.aspx,,faculty_page,areas=ai; verified_by=official_domain
+University of Nebraska,97,Berthe Y. Choueiry,School of Computing | Nebraska,http://cse.unl.edu/~choueiry,,faculty_page,areas=ai; verified_by=official_domain
+University of Nebraska,97,Hau Chan,School of Computing | Nebraska,https://cse.unl.edu/~hchan,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+University of Nebraska,97,Jitender S. Deogun,School of Computing | Nebraska,http://cse.unl.edu/~deogun,,faculty_page,areas=mlmining; verified_by=official_domain
+University of Nebraska,97,Leen-Kiat Soh,School of Computing | Nebraska,http://cse.unl.edu/~lksoh,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+University of Nebraska,97,N. V. Vinodchandran,School of Computing | Nebraska,http://cse.unl.edu/~vinod,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+University of North Texas,97,Chenxi Qiu,Computer Science and Engineering,https://computerscience.engineering.unt.edu/people/faculty/chenxi-qiu,,faculty_page,"areas=ai,vision; verified_by=official_domain"
+University of North Texas,97,Ian Parberry,Computer Science and Engineering,http://larc.unt.edu/ian,,faculty_page,areas=mlmining; verified_by=official_domain
+University of North Texas,97,Jing Yuan 0002,Computer Science and Engineering,https://computerscience.engineering.unt.edu/people/faculty/jing-yuan,,faculty_page,areas=ai; verified_by=official_domain
+University of North Texas,97,Mark V. Albert,Computer Science and Engineering,https://computerscience.engineering.unt.edu/people/faculty/mark-albert,,faculty_page,areas=ai; verified_by=official_domain
+University of North Texas,97,Paul Tarau,Computer Science and Engineering,http://www.cse.unt.edu/~tarau,,faculty_page,areas=nlp; verified_by=official_domain
+University of North Texas,97,Qing Yang 0003,Computer Science and Engineering,https://facultyinfo.unt.edu/faculty-profile?profile=qy0022,,faculty_page,areas=vision; verified_by=official_domain
+University of North Texas,97,Rodney D. Nielsen,Computer Science and Engineering,http://www.cse.unt.edu/~nielsen,,faculty_page,"areas=ai,nlp; verified_by=official_domain"
+University of North Texas,97,Sagnik Ray Choudhury,Computer Science and Engineering,https://facultyinfo.unt.edu/faculty-profile?profile=sr2004,,faculty_page,areas=nlp; verified_by=official_domain
+University of North Texas,97,Sanjukta Bhowmick,Computer Science and Engineering,https://computerscience.engineering.unt.edu/people/faculty/sanjukta-bhowmick,,faculty_page,areas=mlmining; verified_by=official_domain
+University of North Texas,97,Serdar Bozdag,Computer Science and Engineering,https://computerscience.engineering.unt.edu/people/faculty/serdar-bozdag,,faculty_page,areas=bio; verified_by=official_domain
+University of North Texas,97,Song Fu,Computer Science and Engineering,http://www.cse.unt.edu/~song,,faculty_page,"areas=ai,vision; verified_by=official_domain"
+University of North Texas,97,Wei Jin 0006,Computer Science and Engineering,http://www.cse.unt.edu/~weijin,,faculty_page,"areas=mlmining,nlp; verified_by=official_domain"
+University of North Texas,97,Weishi Shi,Computer Science and Engineering,https://computerscience.engineering.unt.edu/people/faculty/weishi-shi,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+University of North Texas,97,Xiaohui Yuan,Computer Science and Engineering,http://www.cse.unt.edu/~xyuan,,faculty_page,"areas=ai,bio,vision; verified_by=official_domain"
+University of North Texas,97,Xinrui Cui,Computer Science and Engineering,https://computerscience.engineering.unt.edu/people/faculty/xinrui-cui,,faculty_page,areas=vision; verified_by=official_domain
+University of North Texas,97,Xuan Guo,Computer Science and Engineering,http://www.cse.unt.edu/~xuanguo,,faculty_page,areas=ai; verified_by=official_domain
+University of North Texas,97,Yan Huang 0002,Computer Science and Engineering,http://www.cse.unt.edu/~huangyan,,faculty_page,"areas=mlmining,vision; verified_by=official_domain"
+University of North Texas,97,Yunhe Feng,Computer Science and Engineering,https://computerscience.engineering.unt.edu/people/faculty/yunhe-feng,,faculty_page,"areas=ai,vision; verified_by=official_domain"
+University of North Texas,97,Zhuqing Liu,Computer Science and Engineering,https://facultyinfo.unt.edu/faculty-profile?profile=zl0223,,faculty_page,areas=mlmining; verified_by=official_domain
+University of Oregon,97,Allen D. Malony,Computer Science | School of Computer and Data Sciences,https://www.cs.uoregon.edu/People/Faculty/Allen_Malony.php,,faculty_page,areas=mlmining; verified_by=official_domain
+University of Oregon,97,Daniel Lowd,Computer Science | School of Computer and Data Sciences,https://ix.cs.uoregon.edu/~lowd,,faculty_page,"areas=ai,mlmining,nlp; verified_by=official_domain"
+University of Oregon,97,Dejing Dou,Computer Science | School of Computer and Data Sciences,http://ix.cs.uoregon.edu/~dou,,faculty_page,"areas=ai,mlmining,nlp,vision; verified_by=official_domain"
+University of Oregon,97,Jun Li 0001,Computer Science | School of Computer and Data Sciences,http://ix.cs.uoregon.edu/~lijun,,faculty_page,areas=ai; verified_by=official_domain
+University of Oregon,97,Ramakrishnan Durairajan,Computer Science | School of Computer and Data Sciences,http://ix.cs.uoregon.edu/~ram,,faculty_page,areas=mlmining; verified_by=official_domain
+University of Oregon,97,Stephen Fickas,Computer Science | School of Computer and Data Sciences,http://ix.cs.uoregon.edu/~fickas,,faculty_page,areas=ai; verified_by=official_domain
+University of Oregon,97,Thanh Hong Nguyen,Computer Science | School of Computer and Data Sciences,https://ix.cs.uoregon.edu/~thanhhng,,faculty_page,"areas=ai,mlmining; verified_by=official_domain"
+University of Oregon,97,Thien Huu Nguyen,Computer Science | School of Computer and Data Sciences,http://ix.cs.uoregon.edu/~thien,,faculty_page,"areas=ai,mlmining,nlp,vision; verified_by=official_domain"

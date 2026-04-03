@@ -1,0 +1,50 @@
+[
+  {
+    "scenario": "Strong direct match",
+    "input_summary": {
+      "research_tags": "computational biology; medical imaging; machine learning",
+      "research_description": "Research focuses on machine learning for biomedical imaging and computational biology.",
+      "recent_work_cues": "Recent publications in 2025 and 2026 are listed.",
+      "ra_opportunity_cues": "The page explicitly says the lab is recruiting research assistants.",
+      "advising_cues": "The page explicitly says the professor is accepting PhD students."
+    },
+    "expected_shape": {
+      "phd_score": "high",
+      "ra_score": "high",
+      "confidence": "high",
+      "reason": "Direct topical overlap plus explicit advising and RA signals."
+    }
+  },
+  {
+    "scenario": "Adjacent but weaker match",
+    "input_summary": {
+      "research_tags": "natural language processing; language models",
+      "research_description": "Lab works on language understanding and reasoning.",
+      "recent_work_cues": "Recent work is listed.",
+      "ra_opportunity_cues": "UNKNOWN",
+      "advising_cues": "UNKNOWN"
+    },
+    "expected_shape": {
+      "phd_score": "medium",
+      "ra_score": "low-to-medium",
+      "confidence": "medium",
+      "reason": "NLP is adjacent but not central to the target profile, and advising / RA evidence is missing."
+    }
+  },
+  {
+    "scenario": "Sparse evidence",
+    "input_summary": {
+      "research_tags": "UNKNOWN",
+      "research_description": "UNKNOWN",
+      "recent_work_cues": "UNKNOWN",
+      "ra_opportunity_cues": "UNKNOWN",
+      "advising_cues": "UNKNOWN"
+    },
+    "expected_shape": {
+      "phd_score": "low",
+      "ra_score": "low",
+      "confidence": "low",
+      "reason": "Insufficient evidence should lead to conservative scoring and explicit concerns."
+    }
+  }
+]

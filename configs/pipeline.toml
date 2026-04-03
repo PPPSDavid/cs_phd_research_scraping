@@ -1,0 +1,66 @@
+[project]
+name = "cs-phd-research-scraping"
+description = "Configurable faculty discovery and scoring pipeline."
+
+[ranking]
+target_region = "us"
+rank_min = 50
+rank_max = 100
+
+[faculty_collection]
+target_parent_areas = ["ai", "vision", "mlmining", "nlp", "bio"]
+
+[http]
+user_agent = "cs-phd-research-scraping/1.0 (+public academic research discovery)"
+timeout_seconds = 20
+max_workers = 16
+retry_attempts = 3
+retry_backoff_seconds = 1.5
+default_crawl_delay_seconds = 1.0
+obey_robots = true
+allow_insecure_ssl_retry = true
+robots_unavailable_policy = "allow"
+
+[scoring]
+user_profile_title = "Master of Data Science, University of Michigan Ann Arbor"
+user_interests = [
+  "AI for science",
+  "inverse problems",
+  "AI for drug discovery",
+  "medical imaging",
+  "computational biology / bioinformatics",
+]
+examples_path = "configs/scoring_examples.json"
+strict_prompt = """
+You are scoring a professor for:
+1. PhD advisor fit
+2. RA / pre-PhD lab opportunity fit
+
+You will receive only structured evidence.
+Do not infer facts not present in the evidence.
+If evidence is insufficient, say UNKNOWN and lower confidence.
+
+User profile:
+- Master of Data Science, University of Michigan Ann Arbor
+- interests: AI for science, inverse problems, AI for drug discovery, medical imaging, computational biology / bioinformatics
+
+Output schema:
+- summary
+- phd_score (0-100)
+- ra_score (0-100)
+- rationale_phd
+- rationale_ra
+- potential_concerns
+- confidence
+
+Strict scoring rules:
+- Base all judgments only on research_description, research_tags, recent_work_cues, ra_opportunity_cues, advising_cues, source_type, notes, school_name, and department.
+- Give the strongest positive weight to explicit overlap with computational biology, bioinformatics, medical imaging, inverse problems, AI for science, scientific machine learning, drug discovery, molecular design, proteins, genomics, or biomedical imaging.
+- Give moderate positive weight to general AI / ML / vision evidence when the user's highest-priority domains are not explicit.
+- Give low positive weight to NLP / language-model-only evidence, since it is adjacent but not central to the stated goals.
+- Increase PhD fit when advising cues are explicit.
+- Increase RA fit when RA / recruiting / prospective-student cues are explicit.
+- Increase both scores slightly when recent work cues are explicit.
+- Penalize confidence and mention concerns when evidence is sparse, indirect, or mostly UNKNOWN.
+- Do not invent advisor availability, funding, lab size, or project details.
+"""
